@@ -48,6 +48,51 @@
       "titulo": "Os manguezais",
       "genero": "Texto de divulgação científica",
       "conteudo": "Os manguezais são ecossistemas que se formam no encontro da água doce dos rios com a água salgada do mar. Eles aparecem em regiões litorâneas de clima quente, como boa parte da costa brasileira.\nAs árvores do mangue têm raízes que se espalham acima do solo lamacento. Essas raízes ajudam a fixar a lama e diminuem a força das águas, o que protege o litoral contra a erosão.\nO manguezal também é chamado de berçário do mar. Entre as suas raízes, peixes, camarões e caranguejos encontram abrigo e alimento para se reproduzir e crescer antes de seguir para o oceano.\nApesar de tanta importância, esse ambiente ainda sofre com o despejo de lixo e com aterros para construções. Preservá-lo garante alimento e renda para muitas famílias que vivem da pesca."
+    },
+    "T09": {
+      "titulo": "O sapo de casaco",
+      "genero": "Poema",
+      "conteudo": "Lá vem o sapo\npulando no chão,\nde casaco verde\ne chapéu na mão.\n\nPulou na lagoa,\nfez tchibum,\ne agora o sapo\nnão tem calor nenhum."
+    },
+    "T10": {
+      "titulo": "Festa do Pijama",
+      "genero": "Convite",
+      "conteudo": "CONVITE\n\nA turma do 2º ano convida você para a nossa Festa do Pijama!\n\nDia: sexta-feira, 20 de novembro\nHorário: das 15h às 17h\nLocal: sala de leitura da escola\n\nTraga seu travesseiro e um livro de que você goste.\n\nProfessora Marta"
+    },
+    "T11": {
+      "titulo": "Salada de frutas",
+      "genero": "Receita",
+      "conteudo": "Ingredientes\n1 banana\n1 maçã\n1 manga\nsuco de 2 laranjas\n\nModo de fazer\n1. Peça a um adulto para descascar e cortar as frutas em pedaços pequenos.\n2. Coloque as frutas em uma tigela.\n3. Despeje o suco de laranja por cima e misture.\n4. Leve à geladeira por 20 minutos e sirva gelada."
+    },
+    "T12": {
+      "titulo": "Carta para a vovó Lúcia",
+      "genero": "Carta pessoal",
+      "conteudo": "Fortaleza, 12 de outubro de 2026.\n\nQuerida vovó Lúcia,\n\nEstou com muita saudade da senhora e do sítio em Quixadá. Aqui em casa está tudo bem. Ontem fui à praia com o papai e vi uma jangada chegando cheia de peixes.\nNa escola, estou aprendendo frações. A professora disse que eu explico muito bem!\nNas férias de dezembro, quero ir aí ajudar a senhora a cuidar das galinhas.\n\nUm abraço bem apertado,\nDavi"
+    },
+    "T13": {
+      "titulo": "A pedra que canta",
+      "genero": "Lenda",
+      "conteudo": "Contam os mais velhos de uma vila do sertão que, no alto da serra, existe uma pedra que canta nas noites de lua cheia.\nDizem que, há muito tempo, uma menina chamada Rosa subia a serra todos os dias para levar água ao pai, que cuidava das cabras. No caminho, ela cantava para espantar o medo.\nCerto ano, uma seca muito forte secou todos os riachos. Rosa subiu a serra mesmo assim, cantando ainda mais alto, como se pedisse chuva. Naquela noite, choveu como nunca.\nDepois disso, ninguém mais viu a menina. Mas, quando o vento sopra forte entre as rochas, o povo da vila jura que ouve a voz de Rosa, agradecendo a chuva."
+    },
+    "T14": {
+      "titulo": "jangada",
+      "genero": "Verbete de dicionário",
+      "conteudo": "jangada (jan.ga.da) substantivo feminino\nEmbarcação simples, sem cabine, usada na pesca artesanal, sobretudo no litoral do Nordeste brasileiro. Tradicionalmente era feita de troncos de madeira leve amarrados lado a lado; hoje é comum ser construída com tábuas. É movida pelo vento, tem uma vela triangular e é conduzida por pescadores chamados jangadeiros."
+    },
+    "T15": {
+      "titulo": "Dona Neide, a guardiã dos livros",
+      "genero": "Entrevista",
+      "conteudo": "O Jornal da Escola conversou com Neide Alves, bibliotecária da escola.\n\nJornal da Escola: Há quanto tempo a senhora trabalha na biblioteca?\nNeide: Há quinze anos. Comecei quando a biblioteca tinha só duas estantes.\n\nJornal da Escola: Qual é o tipo de livro mais emprestado?\nNeide: Os gibis ganham de longe! Mas os livros de suspense estão crescendo.\n\nJornal da Escola: Que conselho a senhora dá para quem diz que não gosta de ler?\nNeide: Que essa pessoa ainda não encontrou o livro certo. Venha conversar comigo, que a gente procura junto."
+    },
+    "T16": {
+      "titulo": "Um farol que prende do início ao fim",
+      "genero": "Resenha (de um livro fictício)",
+      "conteudo": "O mistério do farol apagado acompanha três amigos que investigam por que o farol de sua cidade litorânea deixou de acender. A narrativa é rápida, cheia de pistas falsas e de diálogos divertidos.\nO ponto forte do livro é o suspense: cada capítulo termina com uma descoberta que dá vontade de continuar a leitura. Por outro lado, o final pode parecer previsível para quem já leu muitas histórias de mistério.\nMesmo assim, a obra é uma ótima escolha para leitores que estão começando no gênero. Recomendo."
+    },
+    "T17": {
+      "titulo": "Alunos dormem menos do que deveriam",
+      "genero": "Reportagem",
+      "conteudo": "Uma pesquisa feita pelo grêmio estudantil da Escola Municipal Rio Claro com 200 estudantes do 6º ao 9º ano mostrou que 6 em cada 10 dormem menos de 8 horas por noite em dias de aula. Entre os que dormem pouco, a maioria contou que usa o celular depois das 22h.\nEspecialistas em sono costumam recomendar entre 8 e 10 horas de sono por noite para adolescentes. Dormir pouco pode prejudicar a atenção, a memória e o humor.\nCom base nos resultados, o grêmio vai lançar a campanha “Desliga às dez”, com cartazes e rodas de conversa nas turmas."
     }
   },
   "questoes": [
@@ -866,6 +911,903 @@
       "enunciado": "Escreva um parágrafo argumentativo (de 6 a 10 linhas) respondendo à pergunta: “A escola deve ter mais aulas ao ar livre?”. Apresente sua opinião (tese), dois argumentos que a sustentem e uma frase de conclusão.",
       "resposta_esperada": "Parágrafo com tese clara, dois argumentos desenvolvidos, conectivos adequados e conclusão.",
       "comentario": "Critérios: 1) tese explícita na primeira frase; 2) dois argumentos diferentes, cada um com explicação ou exemplo; 3) uso de conectivos (além disso, por isso, portanto); 4) conclusão coerente com a tese; 5) adequação à norma-padrão. Qualquer posição é válida se for bem sustentada."
+    },
+    {
+      "id": "LP-0049",
+      "ano": 1,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T09",
+      "enunciado": "Quem pulou na lagoa?",
+      "alternativas": [
+        "O gato",
+        "O sapo",
+        "O peixe",
+        "A menina"
+      ],
+      "gabarito": "B",
+      "comentario": "O poema fala do sapo do início ao fim. Leia o texto em voz alta, devagar, e peça que as crianças acompanhem com o dedo. Nesta etapa, a leitura pode ser feita pelo professor."
+    },
+    {
+      "id": "LP-0050",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Rimas",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T09",
+      "enunciado": "No poema, qual palavra rima com CHÃO?",
+      "alternativas": [
+        "sapo",
+        "verde",
+        "lagoa",
+        "mão"
+      ],
+      "gabarito": "D",
+      "comentario": "CHÃO e MÃO terminam com o mesmo som (-ão). Brinque de procurar outras palavras que rimam: pão, cão, limão, feijão. Perceber rimas desenvolve a consciência fonológica, importante para a alfabetização."
+    },
+    {
+      "id": "LP-0051",
+      "ano": 1,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T09",
+      "enunciado": "De que cor é o casaco do sapo?",
+      "alternativas": [
+        "Verde",
+        "Azul",
+        "Amarelo",
+        "Vermelho"
+      ],
+      "gabarito": "A",
+      "comentario": "O terceiro verso diz “de casaco verde”. Peça que a criança mostre onde está a palavra VERDE no texto: localizar uma palavra conhecida é uma ótima atividade de leitura inicial."
+    },
+    {
+      "id": "LP-0052",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Letra inicial",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra começa com a mesma letra de BOLA?",
+      "alternativas": [
+        "CASA",
+        "DADO",
+        "BOTA",
+        "PATO"
+      ],
+      "gabarito": "C",
+      "comentario": "BOLA e BOTA começam com B. A alternativa {D} (PATO) atrai porque P e B têm sons parecidos; vale pronunciar as duas palavras com exagero para a criança sentir a diferença."
+    },
+    {
+      "id": "LP-0053",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Letras e palavras",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Quantas letras tem a palavra GATO?",
+      "alternativas": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "gabarito": "B",
+      "comentario": "G-A-T-O: 4 letras. Escreva a palavra no quadro e conte com a turma, apontando cada letra. Diferencie letras de sílabas: GATO tem 4 letras e 2 sílabas."
+    },
+    {
+      "id": "LP-0054",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Sílabas",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Fale a palavra BORBOLETA batendo palmas em cada parte. Quantas partes (sílabas) ela tem?",
+      "alternativas": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "gabarito": "B",
+      "comentario": "BOR-BO-LE-TA: 4 sílabas. Bater palmas para cada parte é uma estratégia eficaz. A alternativa {D} pode indicar que a criança contou letras ou sons isolados."
+    },
+    {
+      "id": "LP-0055",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Vogais",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual letra está faltando para formar a palavra CASA?\nC _ S A",
+      "alternativas": [
+        "E",
+        "O",
+        "U",
+        "A"
+      ],
+      "gabarito": "D",
+      "comentario": "A palavra é C-A-S-A. Peça que a criança leia em voz alta com cada vogal (“cesa”, “cosa”, “cusa”) para perceber qual forma uma palavra conhecida."
+    },
+    {
+      "id": "LP-0056",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Letra inicial",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual destes nomes começa com a letra M?",
+      "alternativas": [
+        "Ana",
+        "Beto",
+        "Marina",
+        "Davi"
+      ],
+      "gabarito": "C",
+      "comentario": "MARINA começa com M. Use os nomes das crianças da turma: montar a lista de chamada em ordem alfabética é uma atividade rica para essa idade."
+    },
+    {
+      "id": "LP-0057",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Rimas",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra rima com GATO?",
+      "alternativas": [
+        "PATO",
+        "GOTA",
+        "GALO",
+        "BOLA"
+      ],
+      "gabarito": "A",
+      "comentario": "GATO e PATO terminam com o mesmo som (-ATO). As alternativas {B} e {C} começam igual a GATO, o que confunde começo e final da palavra. Rima é sobre o final."
+    },
+    {
+      "id": "LP-0058",
+      "ano": 1,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Sílabas",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra termina com a mesma sílaba de JANELA?",
+      "alternativas": [
+        "PANELA",
+        "JANEIRO",
+        "JARRA",
+        "BOLO"
+      ],
+      "gabarito": "A",
+      "comentario": "JANE-LA e PANE-LA terminam em LA (e até rimam). A alternativa {B} começa igual, mas termina diferente; é a confusão mais comum entre início e fim da palavra."
+    },
+    {
+      "id": "LP-0059",
+      "ano": 1,
+      "eixo": "Produção de textos",
+      "assunto": "Escrita do nome",
+      "dificuldade": "fácil",
+      "tipo": "discursiva",
+      "enunciado": "Escreva o seu nome completo. Depois, escreva o nome de um colega da turma.",
+      "resposta_esperada": "Nome próprio escrito corretamente e o nome de um colega.",
+      "comentario": "Observe: 1) se a criança escreve o próprio nome sem modelo; 2) se usa letra maiúscula no início; 3) em que hipótese de escrita ela está ao grafar o nome do colega. O nome próprio é a principal referência de letras nessa fase."
+    },
+    {
+      "id": "LP-0060",
+      "ano": 2,
+      "eixo": "Leitura",
+      "assunto": "Finalidade do texto",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T10",
+      "enunciado": "Para que serve esse texto?",
+      "alternativas": [
+        "Para contar uma história.",
+        "Para ensinar a fazer um pijama.",
+        "Para convidar para uma festa.",
+        "Para vender travesseiros."
+      ],
+      "gabarito": "C",
+      "comentario": "É um convite: informa o evento, o dia, o horário e o local. A palavra CONVITE no título é uma pista. Compare com outros textos do dia a dia, como bilhete, lista e aviso."
+    },
+    {
+      "id": "LP-0061",
+      "ano": 2,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T10",
+      "enunciado": "O que o convidado deve levar para a festa?",
+      "alternativas": [
+        "Um pijama e um bolo",
+        "Um brinquedo e um lanche",
+        "Um livro e um cobertor",
+        "Um travesseiro e um livro"
+      ],
+      "gabarito": "D",
+      "comentario": "O convite pede: “Traga seu travesseiro e um livro de que você goste”. As outras alternativas misturam ideias ligadas a festa do pijama que não estão no texto."
+    },
+    {
+      "id": "LP-0062",
+      "ano": 2,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T10",
+      "enunciado": "Onde vai acontecer a festa?",
+      "alternativas": [
+        "No pátio da escola",
+        "Na casa da professora",
+        "Na quadra",
+        "Na sala de leitura da escola"
+      ],
+      "gabarito": "D",
+      "comentario": "O local aparece depois da palavra “Local”: sala de leitura da escola. Mostre como os convites organizam as informações em linhas, o que facilita encontrar o que procuramos."
+    },
+    {
+      "id": "LP-0063",
+      "ano": 2,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Dígrafos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Em qual destas palavras aparece NH?",
+      "alternativas": [
+        "NOME",
+        "NUVEM",
+        "NINHO",
+        "SINO"
+      ],
+      "gabarito": "C",
+      "comentario": "NI-NHO tem NH, duas letras que formam um só som. Liste outras com a turma: galinha, sonho, banho. A alternativa {D} tem N, mas não NH."
+    },
+    {
+      "id": "LP-0064",
+      "ano": 2,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Ortografia",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Complete a palavra que dá nome a um veículo:\nCA __ O",
+      "alternativas": [
+        "R",
+        "RR",
+        "L",
+        "S"
+      ],
+      "gabarito": "B",
+      "comentario": "CARRO, com RR, tem o som forte do R entre vogais. Com um R só, forma-se CARO, que tem outro sentido. Compare pares como carro/caro e murro/muro."
+    },
+    {
+      "id": "LP-0065",
+      "ano": 2,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Separação silábica",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual é a separação correta das sílabas de PASSARINHO?",
+      "alternativas": [
+        "PAS-SA-RI-NHO",
+        "PA-SSA-RI-NHO",
+        "PASS-A-RI-NHO",
+        "PAS-SAR-I-NHO"
+      ],
+      "gabarito": "A",
+      "comentario": "Na separação silábica, o SS se divide (PAS-SA), e o NH fica junto na mesma sílaba (NHO). A alternativa {B} mantém SS junto, erro frequente."
+    },
+    {
+      "id": "LP-0066",
+      "ano": 2,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Pontuação",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual sinal usamos no final de uma pergunta?",
+      "alternativas": [
+        "Ponto final (.)",
+        "Ponto de exclamação (!)",
+        "Vírgula (,)",
+        "Ponto de interrogação (?)"
+      ],
+      "gabarito": "D",
+      "comentario": "O ponto de interrogação (?) indica pergunta. Leia frases com entonações diferentes e peça que as crianças digam qual sinal usar."
+    },
+    {
+      "id": "LP-0067",
+      "ano": 2,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Letra maiúscula",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Em qual frase as letras maiúsculas foram usadas corretamente?",
+      "alternativas": [
+        "o cachorro Rex late.",
+        "O cachorro Rex late.",
+        "O Cachorro rex late.",
+        "o Cachorro rex late."
+      ],
+      "gabarito": "B",
+      "comentario": "Usamos letra maiúscula no início da frase e em nomes próprios (Rex). “Cachorro” é substantivo comum, por isso começa com minúscula no meio da frase."
+    },
+    {
+      "id": "LP-0068",
+      "ano": 2,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Sinônimos e antônimos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra tem o sentido contrário de ALTO?",
+      "alternativas": [
+        "BAIXO",
+        "GRANDE",
+        "MAGRO",
+        "FORTE"
+      ],
+      "gabarito": "A",
+      "comentario": "BAIXO é o contrário (antônimo) de ALTO. A alternativa {B} atrai porque “grande” e “alto” têm sentidos próximos. Brinque de “diga o contrário”: quente/frio, cheio/vazio."
+    },
+    {
+      "id": "LP-0069",
+      "ano": 2,
+      "eixo": "Leitura",
+      "assunto": "Gênero textual",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Que tipo de texto usamos para ensinar a preparar um alimento?",
+      "alternativas": [
+        "Carta",
+        "Convite",
+        "Receita",
+        "Poema"
+      ],
+      "gabarito": "C",
+      "comentario": "A receita traz ingredientes e modo de fazer. Leve receitas reais para a sala e observe com a turma como elas se organizam em duas partes."
+    },
+    {
+      "id": "LP-0070",
+      "ano": 2,
+      "eixo": "Produção de textos",
+      "assunto": "Lista",
+      "dificuldade": "fácil",
+      "tipo": "discursiva",
+      "enunciado": "Escreva uma lista com o nome de 4 frutas de que você gosta, uma embaixo da outra.",
+      "resposta_esperada": "Lista com 4 nomes de frutas, um por linha.",
+      "comentario": "Observe: 1) organização em lista, um item por linha; 2) escrita das palavras (hipótese de escrita da criança); 3) se ela relê o que escreveu. Aceite grafias ainda não convencionais e use-as para planejar intervenções."
+    },
+    {
+      "id": "LP-0071",
+      "ano": 3,
+      "eixo": "Leitura",
+      "assunto": "Finalidade do texto",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T11",
+      "enunciado": "Esse texto foi escrito para:",
+      "alternativas": [
+        "contar a história de uma fruta.",
+        "ensinar a preparar uma salada de frutas.",
+        "convidar para um lanche.",
+        "vender frutas na feira."
+      ],
+      "gabarito": "B",
+      "comentario": "A receita é um texto instrucional: ensina a fazer algo em etapas. As duas partes, ingredientes e modo de fazer, são marcas do gênero."
+    },
+    {
+      "id": "LP-0072",
+      "ano": 3,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T11",
+      "enunciado": "Qual fruta NÃO aparece na receita?",
+      "alternativas": [
+        "Banana",
+        "Manga",
+        "Mamão",
+        "Maçã"
+      ],
+      "gabarito": "C",
+      "comentario": "Os ingredientes são banana, maçã, manga e laranja (em suco). Mamão não aparece. Questões com NÃO pedem atenção redobrada; vale destacar a palavra ao ler o enunciado."
+    },
+    {
+      "id": "LP-0073",
+      "ano": 3,
+      "eixo": "Leitura",
+      "assunto": "Sequência de ações",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T11",
+      "enunciado": "O que deve ser feito ANTES de colocar as frutas na tigela?",
+      "alternativas": [
+        "Levar à geladeira.",
+        "Despejar o suco de laranja.",
+        "Servir a salada gelada.",
+        "Descascar e cortar as frutas."
+      ],
+      "gabarito": "D",
+      "comentario": "O passo 1 é descascar e cortar; o passo 2 é colocar na tigela. A numeração dos passos indica a ordem. Peça que os alunos recontem a receita na sequência certa."
+    },
+    {
+      "id": "LP-0074",
+      "ano": 3,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Flexão de gênero",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o feminino de GALO?",
+      "alternativas": [
+        "GALINHA",
+        "GALA",
+        "GALETA",
+        "GALONA"
+      ],
+      "gabarito": "A",
+      "comentario": "O feminino de galo é galinha. Alguns substantivos não formam o feminino só trocando O por A (como menino/menina). Outros exemplos: boi/vaca, cavalo/égua."
+    },
+    {
+      "id": "LP-0075",
+      "ano": 3,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Grau do substantivo",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra indica uma casa pequena?",
+      "alternativas": [
+        "CASARÃO",
+        "CASEIRO",
+        "CASAMENTO",
+        "CASINHA"
+      ],
+      "gabarito": "D",
+      "comentario": "A terminação -INHA forma o diminutivo (casinha). CASARÃO é o aumentativo. CASEIRO e CASAMENTO são palavras da mesma família, mas com outros sentidos."
+    },
+    {
+      "id": "LP-0076",
+      "ano": 4,
+      "eixo": "Leitura",
+      "assunto": "Elementos da carta",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T12",
+      "enunciado": "Quem escreveu a carta e para quem ela foi escrita?",
+      "alternativas": [
+        "A vovó Lúcia escreveu para Davi.",
+        "Davi escreveu para a professora.",
+        "Davi escreveu para a vovó Lúcia.",
+        "O papai escreveu para Davi."
+      ],
+      "gabarito": "C",
+      "comentario": "O destinatário aparece na saudação (“Querida vovó Lúcia”) e o remetente na assinatura (Davi). Mostre esses elementos na estrutura da carta: local e data, saudação, corpo, despedida e assinatura."
+    },
+    {
+      "id": "LP-0077",
+      "ano": 4,
+      "eixo": "Leitura",
+      "assunto": "Inferência",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T12",
+      "enunciado": "Pelo texto, é possível concluir que a vovó Lúcia mora:",
+      "alternativas": [
+        "em Fortaleza, com Davi.",
+        "em um sítio em Quixadá.",
+        "perto da praia.",
+        "na escola de Davi."
+      ],
+      "gabarito": "B",
+      "comentario": "Davi diz sentir saudade “do sítio em Quixadá” e que quer ir “aí” nas férias. Juntando as pistas, conclui-se onde a avó mora. A alternativa {A} confunde o local de onde a carta foi escrita com o endereço da avó."
+    },
+    {
+      "id": "LP-0078",
+      "ano": 4,
+      "eixo": "Leitura",
+      "assunto": "Finalidade do texto",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T12",
+      "enunciado": "Qual é o principal objetivo da carta de Davi?",
+      "alternativas": [
+        "Contar novidades e dizer que sente saudade.",
+        "Pedir dinheiro à avó.",
+        "Ensinar frações à avó.",
+        "Reclamar da escola."
+      ],
+      "gabarito": "A",
+      "comentario": "Davi conta o que tem feito e expressa carinho e saudade, propósito típico da carta pessoal. A alternativa {C} atrai porque ele menciona frações, mas apenas como novidade."
+    },
+    {
+      "id": "LP-0079",
+      "ano": 4,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Tempos verbais",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra completa a frase corretamente?\n“Ontem eu ________ um bolo de chocolate.”",
+      "alternativas": [
+        "comi",
+        "como",
+        "comerei",
+        "comendo"
+      ],
+      "gabarito": "A",
+      "comentario": "“Ontem” indica passado, então o verbo vai para o pretérito: comi. “Como” é presente e “comerei” é futuro. Palavras como ontem, hoje e amanhã são boas pistas do tempo verbal."
+    },
+    {
+      "id": "LP-0080",
+      "ano": 4,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Acentuação",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Em qual opção a palavra está acentuada corretamente?",
+      "alternativas": [
+        "sófa",
+        "sôfa",
+        "sofá",
+        "sofa"
+      ],
+      "gabarito": "C",
+      "comentario": "Em SO-FÁ, a sílaba mais forte é a última, e palavras oxítonas terminadas em A levam acento: sofá. Leia as opções em voz alta para a turma perceber onde está a sílaba tônica."
+    },
+    {
+      "id": "LP-0081",
+      "ano": 5,
+      "eixo": "Leitura",
+      "assunto": "Gênero textual",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T13",
+      "enunciado": "Esse texto é uma lenda porque:",
+      "alternativas": [
+        "ensina a cuidar de cabras.",
+        "explica um fenômeno misterioso com uma história contada de geração em geração.",
+        "apresenta dados científicos sobre a seca.",
+        "relata uma notícia recente da vila."
+      ],
+      "gabarito": "B",
+      "comentario": "A lenda mistura fatos e elementos fantásticos para explicar algo misterioso (o som da pedra) e é transmitida oralmente: “Contam os mais velhos...”. Compare com o conto de fadas e com a fábula."
+    },
+    {
+      "id": "LP-0082",
+      "ano": 5,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T13",
+      "enunciado": "Por que Rosa cantava enquanto subia a serra?",
+      "alternativas": [
+        "Para chamar as cabras.",
+        "Para acordar o pai.",
+        "Para ganhar um concurso.",
+        "Para espantar o medo."
+      ],
+      "gabarito": "D",
+      "comentario": "O texto diz que ela cantava “para espantar o medo”. Mais adiante, o canto ganha outro sentido, como um pedido de chuva: vale discutir essa mudança com a turma."
+    },
+    {
+      "id": "LP-0083",
+      "ano": 5,
+      "eixo": "Leitura",
+      "assunto": "Elementos da narrativa",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T13",
+      "enunciado": "Qual acontecimento da história é fantástico, isto é, não poderia acontecer na vida real?",
+      "alternativas": [
+        "Uma seca secar os riachos.",
+        "Uma menina levar água ao pai.",
+        "Chover forte depois de uma seca.",
+        "Ouvir a voz da menina no vento entre as rochas."
+      ],
+      "gabarito": "D",
+      "comentario": "Secas, chuvas fortes e crianças ajudando a família são situações reais. Ouvir a voz de Rosa no vento é o elemento fantástico que dá à história o caráter de lenda."
+    },
+    {
+      "id": "LP-0084",
+      "ano": 5,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Verbos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “O menino correu e caiu na areia”, quais palavras são verbos?",
+      "alternativas": [
+        "menino e areia",
+        "correu e caiu",
+        "O e na",
+        "caiu e areia"
+      ],
+      "gabarito": "B",
+      "comentario": "Verbos indicam ações: correu e caiu. “Menino” e “areia” são substantivos; “o” é artigo e “na” é preposição combinada com artigo. Teste: o verbo muda com o tempo (corre, correu, correrá)."
+    },
+    {
+      "id": "LP-0085",
+      "ano": 6,
+      "eixo": "Leitura",
+      "assunto": "Gênero textual",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T14",
+      "enunciado": "Esse texto é um verbete. Sua principal finalidade é:",
+      "alternativas": [
+        "narrar a aventura de um pescador.",
+        "convencer o leitor a andar de jangada.",
+        "definir e explicar o significado de uma palavra.",
+        "anunciar a venda de uma embarcação."
+      ],
+      "gabarito": "C",
+      "comentario": "Verbetes de dicionário e de enciclopédia definem palavras ou conceitos com linguagem objetiva. As marcas do gênero estão no início: a palavra destacada, a divisão silábica e a classe gramatical."
+    },
+    {
+      "id": "LP-0086",
+      "ano": 6,
+      "eixo": "Leitura",
+      "assunto": "Elementos do verbete",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T14",
+      "enunciado": "No início do verbete, a informação “(jan.ga.da)” indica:",
+      "alternativas": [
+        "a separação silábica da palavra.",
+        "o plural da palavra.",
+        "a origem da palavra.",
+        "um sinônimo da palavra."
+      ],
+      "gabarito": "A",
+      "comentario": "Os pontos separam as sílabas: jan-ga-da. Logo depois vem a classe gramatical (substantivo feminino). Leve dicionários para a sala e peça que os alunos identifiquem essas partes em outros verbetes."
+    },
+    {
+      "id": "LP-0087",
+      "ano": 6,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Mal e mau",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra completa corretamente a frase?\n“Ele não é um ________ jogador; só estava em um dia ruim.”",
+      "alternativas": [
+        "mal",
+        "mau",
+        "mão",
+        "mais"
+      ],
+      "gabarito": "B",
+      "comentario": "MAU é o contrário de BOM (um mau jogador / um bom jogador). MAL é o contrário de BEM (jogou mal / jogou bem). Trocar pela palavra oposta resolve a dúvida."
+    },
+    {
+      "id": "LP-0088",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Gênero textual",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T15",
+      "enunciado": "Qual característica mostra que esse texto é uma entrevista?",
+      "alternativas": [
+        "A divisão em estrofes e versos.",
+        "A presença de uma moral no final.",
+        "A alternância entre perguntas e respostas identificadas.",
+        "A lista de ingredientes."
+      ],
+      "gabarito": "C",
+      "comentario": "Na entrevista, o entrevistador faz perguntas e o entrevistado responde; os nomes indicam quem fala. A introdução apresenta a pessoa entrevistada. Proponha que a turma entreviste um funcionário da escola."
+    },
+    {
+      "id": "LP-0089",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Sentido de palavras e expressões",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T15",
+      "enunciado": "Quando Neide diz que os gibis “ganham de longe”, ela quer dizer que eles:",
+      "alternativas": [
+        "são emprestados muito mais do que os outros livros.",
+        "ficam guardados longe das outras estantes.",
+        "vêm de lugares distantes.",
+        "ganharam um prêmio de leitura."
+      ],
+      "gabarito": "A",
+      "comentario": "A expressão é informal e significa vencer com grande vantagem. O contexto da pergunta (“o livro mais emprestado”) ajuda a chegar ao sentido. As outras alternativas leem a expressão ao pé da letra."
+    },
+    {
+      "id": "LP-0090",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Ponto de vista",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T15",
+      "enunciado": "Segundo Neide, quem diz que não gosta de ler:",
+      "alternativas": [
+        "nunca vai gostar de livros.",
+        "deve ler apenas gibis.",
+        "precisa ler mais rápido.",
+        "ainda não encontrou o livro certo."
+      ],
+      "gabarito": "D",
+      "comentario": "Neide acredita que o gosto pela leitura depende de encontrar o livro adequado, e oferece ajuda. Discuta com a turma se concordam e qual livro foi o “livro certo” de cada um."
+    },
+    {
+      "id": "LP-0091",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Linguagem figurada",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “Os olhos da menina brilhavam como estrelas”, a figura de linguagem usada é:",
+      "alternativas": [
+        "comparação.",
+        "hipérbole.",
+        "ironia.",
+        "onomatopeia."
+      ],
+      "gabarito": "A",
+      "comentario": "A comparação aproxima dois elementos usando um conectivo como “como”. Sem o conectivo (“seus olhos eram estrelas”), teríamos uma metáfora."
+    },
+    {
+      "id": "LP-0092",
+      "ano": 7,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Pontuação",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “Pedro, feche a porta, por favor”, a primeira vírgula foi usada para:",
+      "alternativas": [
+        "separar itens de uma lista.",
+        "isolar o vocativo, isto é, o nome de quem é chamado.",
+        "indicar uma pergunta.",
+        "separar o sujeito do verbo."
+      ],
+      "gabarito": "B",
+      "comentario": "“Pedro” é vocativo: indica com quem se fala. O vocativo sempre vem separado por vírgula. A alternativa {D} é um erro grave: não se separa sujeito e verbo com vírgula."
+    },
+    {
+      "id": "LP-0093",
+      "ano": 8,
+      "eixo": "Leitura",
+      "assunto": "Fato e opinião",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T16",
+      "enunciado": "Qual trecho expressa uma opinião do autor da resenha?",
+      "alternativas": [
+        "“acompanha três amigos que investigam por que o farol [...] deixou de acender.”",
+        "“cada capítulo termina com uma descoberta.”",
+        "“O ponto forte do livro é o suspense.”",
+        "“o farol de sua cidade litorânea deixou de acender.”"
+      ],
+      "gabarito": "C",
+      "comentario": "Chamar o suspense de “ponto forte” é um julgamento de valor. As demais alternativas resumem o enredo, informação que pode ser conferida no livro. Distinguir fato e opinião é central para ler resenhas, artigos e notícias."
+    },
+    {
+      "id": "LP-0094",
+      "ano": 8,
+      "eixo": "Leitura",
+      "assunto": "Finalidade do texto",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T16",
+      "enunciado": "A principal finalidade de uma resenha é:",
+      "alternativas": [
+        "contar a história completa do livro, inclusive o final.",
+        "vender o livro pelo menor preço.",
+        "biografar a autora do livro.",
+        "apresentar e avaliar uma obra para orientar o leitor."
+      ],
+      "gabarito": "D",
+      "comentario": "A resenha combina resumo e avaliação crítica. Um bom resenhista não conta o final, para não estragar a leitura. Peça que os alunos escrevam uma resenha de um livro lido."
+    },
+    {
+      "id": "LP-0095",
+      "ano": 8,
+      "eixo": "Leitura",
+      "assunto": "Estrutura do texto",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T16",
+      "enunciado": "No último parágrafo, o autor da resenha:",
+      "alternativas": [
+        "resume o enredo do livro.",
+        "critica o livro e desaconselha a leitura.",
+        "apresenta os personagens principais.",
+        "conclui com uma recomendação ao leitor."
+      ],
+      "gabarito": "D",
+      "comentario": "Depois de apontar ponto forte e ponto fraco, o autor fecha com a recomendação (“Recomendo”). “Mesmo assim” mostra que a crítica ao final previsível não muda a avaliação geral."
+    },
+    {
+      "id": "LP-0096",
+      "ano": 8,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Termos da oração",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “Neide, a bibliotecária da escola, recomendou um livro de suspense”, o trecho entre vírgulas é:",
+      "alternativas": [
+        "vocativo.",
+        "aposto.",
+        "objeto direto.",
+        "adjunto adverbial."
+      ],
+      "gabarito": "B",
+      "comentario": "O aposto explica ou identifica um termo anterior (quem é Neide). Diferente do vocativo, ele não chama ninguém. O objeto direto da frase é “um livro de suspense”."
+    },
+    {
+      "id": "LP-0097",
+      "ano": 9,
+      "eixo": "Leitura",
+      "assunto": "Leitura de dados",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T17",
+      "enunciado": "Segundo a pesquisa, quantos dos 200 estudantes dormem menos de 8 horas por noite?",
+      "alternativas": [
+        "60",
+        "80",
+        "120",
+        "160"
+      ],
+      "gabarito": "C",
+      "comentario": "6 em cada 10 equivale a 60%; 60% de 200 = 120. A alternativa {A} confunde a porcentagem com a quantidade; {B} é o número dos que dormem o suficiente. Questão boa para um trabalho conjunto com Matemática."
+    },
+    {
+      "id": "LP-0098",
+      "ano": 9,
+      "eixo": "Leitura",
+      "assunto": "Relação entre partes do texto",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "texto": "T17",
+      "enunciado": "Qual é a função do segundo parágrafo em relação ao primeiro?",
+      "alternativas": [
+        "Explicar por que os resultados da pesquisa são preocupantes.",
+        "Contradizer os resultados da pesquisa.",
+        "Apresentar o nome dos alunos entrevistados.",
+        "Divulgar a data da campanha."
+      ],
+      "gabarito": "A",
+      "comentario": "O segundo parágrafo traz a recomendação de especialistas e os efeitos do sono insuficiente, o que dá peso ao dado do primeiro. O terceiro parágrafo apresenta a solução proposta. Reconhecer essa progressão ajuda na leitura e na escrita de reportagens."
+    },
+    {
+      "id": "LP-0099",
+      "ano": 9,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Variação linguística",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual frase está em linguagem informal?",
+      "alternativas": [
+        "Solicito a gentileza de enviar o documento.",
+        "Tô chegando aí, pera um pouco.",
+        "Informamos que a reunião foi adiada.",
+        "Agradecemos a compreensão de todos."
+      ],
+      "gabarito": "B",
+      "comentario": "“Tô” e “pera” são formas típicas da fala informal. As demais frases seguem a linguagem formal, comum em comunicados. Não existe forma certa ou errada em si: existe a forma adequada a cada situação."
+    },
+    {
+      "id": "LP-0100",
+      "ano": 9,
+      "eixo": "Leitura",
+      "assunto": "Efeitos de humor e ironia",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Ao ver a chuva cancelar o passeio da turma, Lucas disse: “Que dia maravilhoso!”. Nessa situação, Lucas usou:",
+      "alternativas": [
+        "ironia.",
+        "comparação.",
+        "metáfora.",
+        "personificação."
+      ],
+      "gabarito": "A",
+      "comentario": "Ironia é dizer o contrário do que se pensa, e o contexto revela a verdadeira intenção: o dia, para Lucas, foi ruim. A entonação ajuda muito a perceber a ironia na fala."
     }
   ]
 }

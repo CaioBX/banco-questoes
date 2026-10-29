@@ -1,6 +1,6 @@
 # Banco de Questões Multidisciplinar
 
-Acervo de questões prontas, com resposta comentada, para professores do Ensino Fundamental (3º ao 9º ano).
+Acervo de questões prontas, com resposta comentada, para professores do Ensino Fundamental (1º ao 9º ano).
 O professor filtra por componente curricular, ano, unidade temática/eixo, assunto, dificuldade e tipo, seleciona as
 questões e monta uma lista de exercícios ou avaliação (impressão/PDF ou Word), ou projeta as questões em sala.
 
@@ -63,8 +63,7 @@ então a posição no arquivo não importa.
   "enunciado": "Texto da pergunta. Use \n para quebrar linha.",
   "alternativas": ["primeira", "segunda", "terceira", "quarta"],
   "gabarito": "C",
-  "comentario": "Por que C está certa. A alternativa {A} mostra tal erro; {B} indica outro.",
-  "bncc": "EF06MA07"
+  "comentario": "Por que C está certa. A alternativa {A} mostra tal erro; {B} indica outro."
 }
 ```
 
@@ -88,7 +87,7 @@ então a posição no arquivo não importa.
 - `dificuldade`: `fácil`, `média` ou `difícil`. `tipo`: `objetiva` ou `discursiva`.
 - No comentário, cite alternativas como `{A}`, `{B}`... (com chaves). Assim, quando o professor marcar
   “Embaralhar alternativas”, o gabarito comentado acompanha a nova ordem.
-- Campos opcionais: `bncc` (código da habilidade), `tabela` (`{"cabecalho": [...], "linhas": [[...], ...]}`),
+- Campos opcionais: `tabela` (`{"cabecalho": [...], "linhas": [[...], ...]}`),
   `texto` (código de um texto-base).
 
 ### Textos-base (Língua Portuguesa)
