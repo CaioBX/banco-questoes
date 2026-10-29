@@ -1,0 +1,6 @@
+{
+  "disciplinas": [
+    { "slug": "portugues", "nome": "Língua Portuguesa", "arquivo": "portugues.json" },
+    { "slug": "matematica", "nome": "Matemática", "arquivo": "matematica.json" }
+  ]
+}

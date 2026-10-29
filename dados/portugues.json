@@ -1,0 +1,871 @@
+{
+  "disciplina": "Língua Portuguesa",
+  "slug": "portugues",
+  "prefixo": "LP",
+  "rotulo_eixo": "Eixo",
+  "eixos": [
+    "Leitura",
+    "Análise linguística/semiótica",
+    "Produção de textos"
+  ],
+  "textos": {
+    "T01": {
+      "titulo": "Bilhete para a vovó",
+      "genero": "Bilhete",
+      "conteudo": "Vovó,\n\nFui à casa da tia Rosa buscar o bolo para a festa de sábado. Volto antes do almoço.\nDeixei a ração do Pipoca no pote azul, em cima da pia.\n\nBeijos,\nLia"
+    },
+    "T02": {
+      "titulo": "O caranguejo apressado",
+      "genero": "Fábula",
+      "conteudo": "Na beira do mangue vivia um caranguejo que corria o dia inteiro de um lado para o outro.\n— Não tenho tempo! — dizia a todos que o chamavam para conversar.\nCerta manhã, a maré começou a subir mais cedo que de costume. O velho siri gritou do alto de uma raiz:\n— Amigo, a água está chegando! Venha para cá!\nMas o caranguejo nem ouviu. Estava ocupado demais, correndo sem rumo. Quando percebeu, a água já cobria a sua toca, e ele precisou nadar com muito esforço até a raiz onde o siri o esperava.\n— Obrigado por me chamar — disse ele, cansado. — Se eu tivesse parado para ouvir, teria chegado aqui sem susto.\n\nMoral: quem não para para ouvir corre mais riscos do que imagina."
+    },
+    "T03": {
+      "titulo": "Horta de escola vira merenda",
+      "genero": "Notícia",
+      "conteudo": "Alunos da Escola Municipal Rio Claro, no município fictício de Serra Alta, transformaram um terreno vazio atrás da quadra em uma horta. O projeto começou em março, com turmas do 4º e do 5º ano.\nHoje, a horta produz alface, coentro e cebolinha, que vão direto para a merenda escolar. Segundo a coordenação, a escola deixou de comprar temperos verdes desde junho.\n“Os meninos regam antes da primeira aula. Ninguém precisa mandar”, contou a professora Helena Matos, responsável pelo projeto.\nO próximo passo é montar uma composteira para aproveitar as cascas de frutas da cozinha como adubo."
+    },
+    "T04": {
+      "titulo": "Chuva no sertão",
+      "genero": "Poema",
+      "conteudo": "O céu fechou a cara cinza\ne o vento veio avisar:\na terra rachada de sede\nabriu a boca pra esperar.\n\nCaiu a primeira gota,\ndepois mil, depois um mar.\nO mandacaru sorriu verde,\no açude voltou a cantar."
+    },
+    "T05": {
+      "titulo": "Troque uma história, leve outra!",
+      "genero": "Cartaz de campanha",
+      "conteudo": "TROQUE UMA HISTÓRIA, LEVE OUTRA!\n\nFeira de Troca de Livros\nSábado, 14 de novembro, das 8h às 12h, na quadra da escola.\n\nTraga um livro em bom estado e escolha outro para levar para casa.\nVale gibi, romance, poesia e livro de curiosidades.\n\nLivro parado não conta história.\n\nOrganização: Grêmio Estudantil"
+    },
+    "T06": {
+      "titulo": "Ler não deveria ser só tarefa",
+      "genero": "Artigo de opinião",
+      "conteudo": "Na maioria das escolas, a leitura aparece quase sempre ligada a uma obrigação: ler para fazer a prova, ler para preencher a ficha, ler porque vale nota. Acredito que essa relação afasta muitos estudantes dos livros.\nQuem lê por prazer volta aos livros por vontade própria. Escolher a história, abandonar uma que não agradou e começar outra são decisões que fazem do aluno um leitor, e não apenas alguém que cumpre uma atividade.\nAlém disso, ler sem pressa de responder perguntas permite perceber detalhes, criar imagens e conversar sobre o livro com os amigos. É assim que o gosto pela leitura se espalha.\nNo entanto, isso não significa acabar com as avaliações de leitura. Elas têm seu lugar. O que defendo é que a escola reserve um tempo, toda semana, para a leitura livre, sem ficha e sem nota. Talvez seja esse o tempo que forma leitores para a vida inteira."
+    },
+    "T07": {
+      "titulo": "Áudio de três minutos",
+      "genero": "Crônica",
+      "conteudo": "Minha avó descobriu os áudios. Antes, ela telefonava, perguntava se estava tudo bem e desligava satisfeita. Agora, manda gravações de três minutos para avisar que vai chover.\nComeça sempre do mesmo jeito: um silêncio comprido, o barulho de uma panela, o rádio ao fundo e, por fim, a voz dela: “Tá gravando? Meu neto, tá gravando?”. Eu respondo que sim, mas ela não me escuta, porque áudio não é ligação. Ninguém explicou isso a ela, e eu, sinceramente, não tenho coragem.\nOntem recebi sete áudios seguidos. No último, depois de dois minutos falando da vizinha, ela concluiu: “Era só pra dizer que te amo. Pronto, falei”.\nOuvi os sete de novo. Dessa vez, sem acelerar."
+    },
+    "T08": {
+      "titulo": "Os manguezais",
+      "genero": "Texto de divulgação científica",
+      "conteudo": "Os manguezais são ecossistemas que se formam no encontro da água doce dos rios com a água salgada do mar. Eles aparecem em regiões litorâneas de clima quente, como boa parte da costa brasileira.\nAs árvores do mangue têm raízes que se espalham acima do solo lamacento. Essas raízes ajudam a fixar a lama e diminuem a força das águas, o que protege o litoral contra a erosão.\nO manguezal também é chamado de berçário do mar. Entre as suas raízes, peixes, camarões e caranguejos encontram abrigo e alimento para se reproduzir e crescer antes de seguir para o oceano.\nApesar de tanta importância, esse ambiente ainda sofre com o despejo de lixo e com aterros para construções. Preservá-lo garante alimento e renda para muitas famílias que vivem da pesca."
+    }
+  },
+  "questoes": [
+    {
+      "id": "LP-0001",
+      "ano": 3,
+      "eixo": "Leitura",
+      "assunto": "Finalidade do texto",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T01",
+      "enunciado": "Lia escreveu esse bilhete para:",
+      "alternativas": [
+        "contar uma história para a avó.",
+        "avisar a avó aonde foi e quando volta.",
+        "convidar a avó para uma festa.",
+        "pedir à avó que faça um bolo."
+      ],
+      "gabarito": "B",
+      "comentario": "O bilhete é um texto curto que serve para dar um recado a alguém. Lia avisa que foi à casa da tia Rosa e que volta antes do almoço. A alternativa {C} atrai porque o texto cita uma festa, mas não há convite. Peça que os alunos localizem no texto as palavras que comprovam a resposta."
+    },
+    {
+      "id": "LP-0002",
+      "ano": 3,
+      "eixo": "Leitura",
+      "assunto": "Inferência",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T01",
+      "enunciado": "Pelo bilhete, é possível concluir que Pipoca é:",
+      "alternativas": [
+        "o primo de Lia.",
+        "o nome do bolo da festa.",
+        "um animal de estimação.",
+        "o vizinho da avó."
+      ],
+      "gabarito": "C",
+      "comentario": "O texto não diz o que é Pipoca, mas a palavra “ração” é a pista: ração é alimento de animais. Essa é uma inferência, uma informação que o leitor descobre a partir de pistas do texto. Explore outras pistas parecidas em textos curtos."
+    },
+    {
+      "id": "LP-0003",
+      "ano": 3,
+      "eixo": "Leitura",
+      "assunto": "Elementos da narrativa",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T02",
+      "enunciado": "Onde se passa a história?",
+      "alternativas": [
+        "Na beira do mangue.",
+        "No fundo do oceano.",
+        "Em uma lagoa no sertão.",
+        "Em uma praia de areia branca."
+      ],
+      "gabarito": "A",
+      "comentario": "A primeira frase informa o lugar: “na beira do mangue”. Retome os elementos da narrativa: personagens, lugar, tempo e conflito."
+    },
+    {
+      "id": "LP-0004",
+      "ano": 4,
+      "eixo": "Leitura",
+      "assunto": "Tema e moral",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T02",
+      "enunciado": "Qual é o ensinamento principal dessa fábula?",
+      "alternativas": [
+        "É preciso correr muito para chegar primeiro.",
+        "Ouvir os outros pode nos proteger de perigos.",
+        "Os siris são mais espertos que os caranguejos.",
+        "Quem mora no mangue não deve ter toca."
+      ],
+      "gabarito": "B",
+      "comentario": "A moral explícita no fim do texto confirma a resposta: quem não para para ouvir corre mais riscos. A alternativa {C} generaliza uma característica dos personagens. Lembre que, nas fábulas, os animais representam comportamentos humanos."
+    },
+    {
+      "id": "LP-0005",
+      "ano": 4,
+      "eixo": "Leitura",
+      "assunto": "Sentido de palavras e expressões",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T02",
+      "enunciado": "No trecho “correndo sem rumo”, a expressão “sem rumo” significa:",
+      "alternativas": [
+        "muito rápido.",
+        "com medo da água.",
+        "sem direção certa.",
+        "devagar e cansado."
+      ],
+      "gabarito": "C",
+      "comentario": "“Rumo” é direção, caminho. Correr sem rumo é correr sem saber para onde ir. A alternativa {A} é tentadora porque o caranguejo corre muito, mas a expressão fala da direção, e não da velocidade. Incentive a troca da expressão pela resposta escolhida para testar se o sentido se mantém."
+    },
+    {
+      "id": "LP-0006",
+      "ano": 5,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Discurso direto e indireto",
+      "dificuldade": "média",
+      "tipo": "discursiva",
+      "texto": "T02",
+      "enunciado": "Reescreva o trecho abaixo usando o discurso indireto, ou seja, contando o que o siri disse sem usar travessão.\n\nO velho siri gritou do alto de uma raiz:\n— Amigo, a água está chegando!",
+      "resposta_esperada": "O velho siri gritou do alto de uma raiz que a água estava chegando. (ou: O velho siri avisou ao amigo, do alto de uma raiz, que a água estava chegando.)",
+      "comentario": "Observe se o aluno retira o travessão, usa um verbo de dizer seguido de “que” e ajusta o tempo verbal (“está chegando” passa a “estava chegando”). O vocativo “Amigo” desaparece ou vira complemento (“avisou ao amigo”)."
+    },
+    {
+      "id": "LP-0007",
+      "ano": 4,
+      "eixo": "Leitura",
+      "assunto": "Informação explícita",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T03",
+      "enunciado": "De acordo com a notícia, o que é feito com os alimentos colhidos na horta?",
+      "alternativas": [
+        "São vendidos na feira da cidade.",
+        "Viram adubo para a composteira.",
+        "São levados para casa pelos alunos.",
+        "São usados na merenda escolar."
+      ],
+      "gabarito": "D",
+      "comentario": "O texto afirma que alface, coentro e cebolinha vão direto para a merenda. A alternativa {B} mistura a informação sobre a composteira, que usa cascas de frutas e ainda é um plano. Localizar informações explícitas é a base para as habilidades de inferência."
+    },
+    {
+      "id": "LP-0008",
+      "ano": 5,
+      "eixo": "Leitura",
+      "assunto": "Gênero textual",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T03",
+      "enunciado": "Esse texto é uma notícia porque:",
+      "alternativas": [
+        "conta uma história inventada com personagens animais.",
+        "relata um fato recente, informando quem, onde e o que aconteceu.",
+        "ensina a montar uma horta passo a passo.",
+        "tenta convencer o leitor a comprar verduras."
+      ],
+      "gabarito": "B",
+      "comentario": "A notícia informa um fato de interesse público e responde às perguntas básicas: o quê, quem, onde, quando e como. A alternativa {C} descreve um texto instrucional; {D}, um anúncio. Compare a notícia com outros gêneros sobre o mesmo tema."
+    },
+    {
+      "id": "LP-0009",
+      "ano": 5,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Pontuação e efeitos de sentido",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T03",
+      "enunciado": "No quarto parágrafo, as aspas foram usadas para:",
+      "alternativas": [
+        "indicar a fala exata da professora.",
+        "destacar uma palavra estrangeira.",
+        "mostrar que a frase é engraçada.",
+        "marcar o título do projeto."
+      ],
+      "gabarito": "A",
+      "comentario": "Em notícias, as aspas marcam a fala de uma pessoa reproduzida com as palavras dela, o que dá credibilidade ao texto. Logo depois aparece o verbo “contou” e o nome de quem falou."
+    },
+    {
+      "id": "LP-0010",
+      "ano": 5,
+      "eixo": "Leitura",
+      "assunto": "Linguagem figurada",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T04",
+      "enunciado": "Nos versos “O mandacaru sorriu verde, / o açude voltou a cantar”, o poeta:",
+      "alternativas": [
+        "descreve exatamente o que acontece com as plantas.",
+        "conta que alguém cantou perto do açude.",
+        "atribui ações humanas a seres da natureza.",
+        "mostra que o mandacaru morreu com a chuva."
+      ],
+      "gabarito": "C",
+      "comentario": "Mandacaru não sorri e açude não canta: o poeta dá características humanas a elementos da natureza para expressar a alegria com a chuva. Esse recurso se chama personificação (ou prosopopeia). Peça que os alunos encontrem outros exemplos no poema, como “o céu fechou a cara”."
+    },
+    {
+      "id": "LP-0011",
+      "ano": 6,
+      "eixo": "Leitura",
+      "assunto": "Linguagem figurada",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T04",
+      "enunciado": "Na expressão “depois mil, depois um mar”, a palavra “mar” foi usada para:",
+      "alternativas": [
+        "indicar que a chuva chegou até o litoral.",
+        "comparar o sertão com uma praia.",
+        "dizer que a água da chuva era salgada.",
+        "exagerar a quantidade de água, mostrando que choveu muito."
+      ],
+      "gabarito": "D",
+      "comentario": "O exagero intencional (hipérbole) reforça a ideia de muita chuva depois da seca. A gradação “a primeira gota, depois mil, depois um mar” mostra o aumento da chuva. As demais alternativas leem a palavra no sentido literal."
+    },
+    {
+      "id": "LP-0012",
+      "ano": 6,
+      "eixo": "Leitura",
+      "assunto": "Elementos do poema",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T04",
+      "enunciado": "Quantas estrofes e quantos versos tem o poema?",
+      "alternativas": [
+        "2 estrofes e 8 versos.",
+        "8 estrofes e 2 versos.",
+        "2 estrofes e 4 versos.",
+        "4 estrofes e 8 versos."
+      ],
+      "gabarito": "A",
+      "comentario": "Cada linha do poema é um verso, e cada bloco de versos é uma estrofe. O poema tem 2 estrofes com 4 versos cada, totalizando 8 versos. Aproveite para observar as rimas: avisar/esperar e mar/cantar."
+    },
+    {
+      "id": "LP-0013",
+      "ano": 6,
+      "eixo": "Leitura",
+      "assunto": "Finalidade do texto",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T05",
+      "enunciado": "O principal objetivo desse cartaz é:",
+      "alternativas": [
+        "ensinar a conservar livros usados.",
+        "convidar e convencer as pessoas a participarem da feira.",
+        "vender livros novos para os alunos.",
+        "contar a história do Grêmio Estudantil."
+      ],
+      "gabarito": "B",
+      "comentario": "O cartaz de campanha busca persuadir o público a agir; aqui, a participar da feira. Ele informa data, hora e local e usa frase de efeito para convencer. A alternativa {C} contradiz o texto, que fala em troca, e não em venda."
+    },
+    {
+      "id": "LP-0014",
+      "ano": 6,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Modos verbais",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T05",
+      "enunciado": "Os verbos “troque”, “leve” e “traga” estão no modo imperativo. Nesse cartaz, eles foram usados para:",
+      "alternativas": [
+        "narrar fatos que já aconteceram.",
+        "expressar dúvida sobre a feira.",
+        "fazer um chamado direto ao leitor.",
+        "descrever a quadra da escola."
+      ],
+      "gabarito": "C",
+      "comentario": "O imperativo expressa pedido, convite, conselho ou ordem e se dirige diretamente ao leitor, por isso é comum em anúncios e campanhas. Proponha que os alunos criem slogans usando verbos no imperativo."
+    },
+    {
+      "id": "LP-0015",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Sentido de palavras e expressões",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "texto": "T05",
+      "enunciado": "Com a frase “Livro parado não conta história”, os organizadores querem dizer que:",
+      "alternativas": [
+        "um livro só cumpre seu papel quando alguém o lê.",
+        "livros velhos devem ser jogados fora.",
+        "as histórias dos livros são todas paradas e chatas.",
+        "não se deve ler livros na feira."
+      ],
+      "gabarito": "A",
+      "comentario": "A frase brinca com o duplo sentido de “contar história”: o livro esquecido na estante não chega a ninguém. Por isso, vale trocá-lo para que outra pessoa o leia. A alternativa {B} contraria o propósito da campanha."
+    },
+    {
+      "id": "LP-0016",
+      "ano": 8,
+      "eixo": "Leitura",
+      "assunto": "Tese e argumentos",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T06",
+      "enunciado": "Qual é a tese, ou seja, a ideia principal defendida pelo autor?",
+      "alternativas": [
+        "As avaliações de leitura devem acabar.",
+        "Os alunos não gostam de ler.",
+        "Só se deve ler livros escolhidos pelo professor.",
+        "A escola deve reservar um tempo para a leitura livre, sem nota."
+      ],
+      "gabarito": "D",
+      "comentario": "O autor defende que a leitura deve ser também prazer e propõe tempo semanal de leitura livre. A alternativa {A} é negada no último parágrafo (“isso não significa acabar com as avaliações”). Identificar a tese é a primeira etapa para analisar um texto argumentativo."
+    },
+    {
+      "id": "LP-0017",
+      "ano": 8,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Conectivos e coesão",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T06",
+      "enunciado": "No último parágrafo, a expressão “No entanto” introduz uma ideia de:",
+      "alternativas": [
+        "conclusão.",
+        "oposição ou ressalva.",
+        "causa.",
+        "tempo."
+      ],
+      "gabarito": "B",
+      "comentario": "“No entanto” é um conectivo adversativo, equivalente a “mas” ou “porém”. O autor faz uma ressalva para evitar que sua posição seja mal interpretada. Peça que os alunos substituam o conectivo por outros de mesmo valor."
+    },
+    {
+      "id": "LP-0018",
+      "ano": 9,
+      "eixo": "Leitura",
+      "assunto": "Tese e argumentos",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "texto": "T06",
+      "enunciado": "Qual trecho apresenta um argumento usado para sustentar a tese do autor?",
+      "alternativas": [
+        "“Quem lê por prazer volta aos livros por vontade própria.”",
+        "“Na maioria das escolas, a leitura aparece quase sempre ligada a uma obrigação.”",
+        "“Elas têm seu lugar.”",
+        "“Ler não deveria ser só tarefa.”"
+      ],
+      "gabarito": "A",
+      "comentario": "O argumento é a razão que justifica a tese: ler por prazer cria leitores que voltam aos livros. A alternativa {B} apresenta a situação-problema; {C} é uma concessão; {D} é o título, que antecipa a tese. Distinguir esses papéis no texto é essencial para a produção argumentativa."
+    },
+    {
+      "id": "LP-0019",
+      "ano": 8,
+      "eixo": "Leitura",
+      "assunto": "Efeitos de humor e ironia",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T07",
+      "enunciado": "O humor do segundo parágrafo vem principalmente:",
+      "alternativas": [
+        "da descrição da vizinha.",
+        "da previsão de chuva.",
+        "do fato de a avó fazer perguntas num áudio, como se fosse uma ligação.",
+        "do rádio ligado na cozinha."
+      ],
+      "gabarito": "C",
+      "comentario": "A graça está na situação: a avó pergunta “tá gravando?” e espera resposta, sem perceber que o áudio não permite conversa. O narrador reforça o efeito ao dizer que não tem coragem de explicar."
+    },
+    {
+      "id": "LP-0020",
+      "ano": 9,
+      "eixo": "Leitura",
+      "assunto": "Inferência",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "texto": "T07",
+      "enunciado": "A frase final, “Dessa vez, sem acelerar”, sugere que o narrador:",
+      "alternativas": [
+        "ficou irritado com a quantidade de áudios.",
+        "descobriu um defeito no aplicativo.",
+        "decidiu ensinar a avó a fazer ligações.",
+        "passou a dar mais valor às mensagens da avó."
+      ],
+      "gabarito": "D",
+      "comentario": "Antes ele acelerava os áudios; depois da declaração de amor, ouve todos de novo, com calma. A mudança indica afeto e valorização. Questão boa para discutir como o desfecho da crônica muda o sentido do que veio antes."
+    },
+    {
+      "id": "LP-0021",
+      "ano": 9,
+      "eixo": "Leitura",
+      "assunto": "Gênero textual",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T07",
+      "enunciado": "Esse texto pode ser classificado como crônica porque:",
+      "alternativas": [
+        "parte de uma situação do cotidiano e a comenta com leveza e olhar pessoal.",
+        "apresenta dados científicos sobre o uso de celulares.",
+        "é escrito em versos e estrofes.",
+        "relata um acontecimento de interesse público com imparcialidade."
+      ],
+      "gabarito": "A",
+      "comentario": "A crônica nasce de episódios do dia a dia, tem linguagem próxima da conversa e revela o olhar do cronista, muitas vezes com humor ou emoção. A alternativa {D} descreve a notícia; {C}, o poema."
+    },
+    {
+      "id": "LP-0022",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Ideia principal",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "texto": "T08",
+      "enunciado": "Qual é o assunto principal do texto?",
+      "alternativas": [
+        "A pesca de camarões no Brasil.",
+        "As características e a importância dos manguezais.",
+        "A construção de casas no litoral.",
+        "O clima quente da costa brasileira."
+      ],
+      "gabarito": "B",
+      "comentario": "Todos os parágrafos tratam do manguezal: o que é, como suas raízes protegem o litoral, por que é chamado de berçário e por que deve ser preservado. As outras alternativas são detalhes ou temas secundários."
+    },
+    {
+      "id": "LP-0023",
+      "ano": 8,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Referenciação (retomada)",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T08",
+      "enunciado": "No trecho “Essas raízes ajudam a fixar a lama”, a expressão “Essas raízes” retoma:",
+      "alternativas": [
+        "as raízes de todas as plantas do Brasil.",
+        "os peixes e camarões do manguezal.",
+        "as raízes das árvores do mangue, citadas na frase anterior.",
+        "as águas dos rios."
+      ],
+      "gabarito": "C",
+      "comentario": "O pronome demonstrativo “essas” indica que o termo já foi mencionado: as raízes das árvores do mangue, que se espalham acima do solo. Esse mecanismo de retomada garante a coesão do texto."
+    },
+    {
+      "id": "LP-0024",
+      "ano": 7,
+      "eixo": "Leitura",
+      "assunto": "Sentido de palavras e expressões",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "texto": "T08",
+      "enunciado": "O manguezal é chamado de “berçário do mar” porque:",
+      "alternativas": [
+        "muitos bebês nascem perto do litoral.",
+        "as águas do mangue são muito calmas.",
+        "as árvores do mangue parecem berços.",
+        "é lá que muitas espécies marinhas se reproduzem e crescem."
+      ],
+      "gabarito": "D",
+      "comentario": "A expressão é uma metáfora: assim como o berçário abriga recém-nascidos, o mangue oferece abrigo e alimento para peixes, camarões e caranguejos nas primeiras fases de vida. O próprio texto explica a expressão logo em seguida."
+    },
+    {
+      "id": "LP-0025",
+      "ano": 3,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Ortografia",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra está escrita corretamente?",
+      "alternativas": [
+        "caxorro",
+        "cachorro",
+        "cachoro",
+        "caxoro"
+      ],
+      "gabarito": "B",
+      "comentario": "Escreve-se “cachorro”, com CH e RR. O RR entre vogais representa o som forte do R. Erros entre X e CH são comuns porque representam o mesmo som; a memorização vem com leitura frequente e jogos de palavras."
+    },
+    {
+      "id": "LP-0026",
+      "ano": 3,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Ordem alfabética",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Se colocarmos as palavras abaixo em ordem alfabética, qual virá primeiro?\nbola – dado – abacate – cavalo",
+      "alternativas": [
+        "bola",
+        "dado",
+        "abacate",
+        "cavalo"
+      ],
+      "gabarito": "C",
+      "comentario": "A ordem alfabética começa pela primeira letra: A vem antes de B, C e D. Ordem completa: abacate, bola, cavalo, dado. Relacione a atividade ao uso do dicionário."
+    },
+    {
+      "id": "LP-0027",
+      "ano": 4,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Substantivos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “Lucas visitou Fortaleza nas férias de julho”, quais palavras são substantivos próprios?",
+      "alternativas": [
+        "Lucas e Fortaleza",
+        "Lucas e férias",
+        "Fortaleza e julho",
+        "visitou e férias"
+      ],
+      "gabarito": "A",
+      "comentario": "Substantivos próprios nomeiam um ser específico e começam com letra maiúscula: o nome de uma pessoa (Lucas) e o de uma cidade (Fortaleza). “Férias” e “julho” são substantivos comuns; em português, os meses são escritos com letra minúscula."
+    },
+    {
+      "id": "LP-0028",
+      "ano": 4,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Sinônimos e antônimos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “A menina ficou contente com o presente”, qual palavra pode substituir “contente” sem mudar o sentido?",
+      "alternativas": [
+        "triste",
+        "cansada",
+        "assustada",
+        "alegre"
+      ],
+      "gabarito": "D",
+      "comentario": "“Alegre” é sinônimo de “contente”. “Triste” é antônimo. Peça que os alunos leiam a frase com cada opção para perceber a mudança de sentido."
+    },
+    {
+      "id": "LP-0029",
+      "ano": 4,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Pontuação",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Em qual frase o ponto de interrogação foi usado corretamente?",
+      "alternativas": [
+        "Que dia lindo?",
+        "Você vai à festa amanhã?",
+        "Eu gosto de banana?",
+        "Feche a porta, por favor?"
+      ],
+      "gabarito": "B",
+      "comentario": "O ponto de interrogação marca uma pergunta. “Que dia lindo” expressa admiração e pede ponto de exclamação; “Eu gosto de banana” é uma afirmação. Leia as frases em voz alta, variando a entonação."
+    },
+    {
+      "id": "LP-0030",
+      "ano": 5,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Flexão de número (plural)",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o plural da palavra “pão”?",
+      "alternativas": [
+        "pães",
+        "pãos",
+        "pões",
+        "pãeses"
+      ],
+      "gabarito": "A",
+      "comentario": "Palavras terminadas em -ão podem fazer o plural em -ões (limão → limões), -ães (pão → pães) ou -ãos (mão → mãos). Não há regra única; por isso, consultar o dicionário é um bom hábito."
+    },
+    {
+      "id": "LP-0031",
+      "ano": 5,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Concordância verbal",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra completa corretamente a frase?\n“Os meninos ________ cedo para o treino.”",
+      "alternativas": [
+        "chegou",
+        "chegamos",
+        "chegaram",
+        "chega"
+      ],
+      "gabarito": "C",
+      "comentario": "O sujeito “os meninos” está no plural (eles), então o verbo também vai para o plural: “chegaram”. “Chegamos” corresponde a “nós”. Pergunte: “quem chegou?”, para que o aluno identifique o sujeito."
+    },
+    {
+      "id": "LP-0032",
+      "ano": 5,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Referenciação (retomada)",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Leia:\n“Joana ganhou um livro de aventuras. Ela gostou tanto dele que terminou a leitura em dois dias.”\nNo texto, as palavras “Ela” e “dele” substituem, respectivamente:",
+      "alternativas": [
+        "livro e Joana",
+        "Joana e aventuras",
+        "leitura e livro",
+        "Joana e livro"
+      ],
+      "gabarito": "D",
+      "comentario": "Os pronomes evitam a repetição: “Ela” retoma Joana e “dele” (de + ele) retoma o livro. Peça que os alunos reescrevam a frase sem os pronomes para perceberem como ficaria repetitiva."
+    },
+    {
+      "id": "LP-0033",
+      "ano": 6,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Adjetivos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “A casa amarela fica na esquina da rua”, a palavra que indica uma característica é:",
+      "alternativas": [
+        "casa",
+        "amarela",
+        "esquina",
+        "fica"
+      ],
+      "gabarito": "B",
+      "comentario": "“Amarela” é adjetivo: caracteriza o substantivo “casa”. “Casa” e “esquina” são substantivos; “fica” é verbo. Proponha descrever objetos da sala usando adjetivos."
+    },
+    {
+      "id": "LP-0034",
+      "ano": 6,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Tempos verbais",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Na frase “Amanhã nós viajaremos para o interior”, o verbo está no:",
+      "alternativas": [
+        "presente.",
+        "pretérito perfeito.",
+        "futuro do presente.",
+        "pretérito imperfeito."
+      ],
+      "gabarito": "C",
+      "comentario": "“Viajaremos” indica uma ação que ainda vai acontecer, e o advérbio “amanhã” reforça a ideia. Compare: viajamos (presente ou pretérito), viajávamos (pretérito imperfeito), viajaremos (futuro)."
+    },
+    {
+      "id": "LP-0035",
+      "ano": 6,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Parônimos e homônimos",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra completa corretamente a frase?\n“O mecânico terminou o ________ do carro antes do almoço.”",
+      "alternativas": [
+        "conserto",
+        "concerto",
+        "conçerto",
+        "consserto"
+      ],
+      "gabarito": "A",
+      "comentario": "“Conserto” (com S) é reparo; “concerto” (com C) é apresentação musical. As palavras têm o mesmo som e sentidos diferentes (homônimas homófonas). {C} e {D} não existem na língua."
+    },
+    {
+      "id": "LP-0036",
+      "ano": 7,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Sujeito e predicado",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Na oração “Choveu muito ontem à noite”, o sujeito é classificado como:",
+      "alternativas": [
+        "simples.",
+        "composto.",
+        "oculto.",
+        "inexistente (oração sem sujeito)."
+      ],
+      "gabarito": "D",
+      "comentario": "Verbos que indicam fenômenos da natureza (chover, ventar, trovejar) não têm sujeito: a oração é sem sujeito. O erro comum é marcar “oculto”, mas no sujeito oculto é possível identificar quem pratica a ação pela terminação do verbo."
+    },
+    {
+      "id": "LP-0037",
+      "ano": 7,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Transitividade verbal",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Na oração “A professora corrigiu as provas”, o termo “as provas” é:",
+      "alternativas": [
+        "sujeito.",
+        "objeto indireto.",
+        "adjunto adverbial.",
+        "objeto direto."
+      ],
+      "gabarito": "D",
+      "comentario": "O verbo “corrigir” pede um complemento sem preposição (quem corrige, corrige algo): “as provas” é objeto direto. O sujeito é “a professora”."
+    },
+    {
+      "id": "LP-0038",
+      "ano": 7,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Conectivos e coesão",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual palavra completa corretamente a frase?\n“Estudei bastante, ________ não consegui terminar a prova a tempo.”",
+      "alternativas": [
+        "mais",
+        "mas",
+        "más",
+        "mais que"
+      ],
+      "gabarito": "B",
+      "comentario": "“Mas” indica oposição (pode ser trocado por “porém”). “Mais” indica quantidade ou intensidade; “más” é o feminino plural de “mau”. Peça que testem a troca por “porém” para decidir."
+    },
+    {
+      "id": "LP-0039",
+      "ano": 8,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Vozes verbais",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Na oração “O muro da escola foi pintado pelos alunos”, a expressão “pelos alunos” indica:",
+      "alternativas": [
+        "quem pratica a ação.",
+        "quem sofre a ação.",
+        "o lugar da ação.",
+        "o tempo da ação."
+      ],
+      "gabarito": "A",
+      "comentario": "A oração está na voz passiva analítica: o sujeito (“o muro da escola”) sofre a ação, e “pelos alunos” é o agente da passiva, quem realmente pratica a ação. Na voz ativa: “Os alunos pintaram o muro da escola”."
+    },
+    {
+      "id": "LP-0040",
+      "ano": 8,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Orações coordenadas",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Em “Ela estudou com dedicação, portanto foi aprovada”, a conjunção “portanto” expressa ideia de:",
+      "alternativas": [
+        "adição.",
+        "oposição.",
+        "conclusão.",
+        "alternância."
+      ],
+      "gabarito": "C",
+      "comentario": "“Portanto” introduz a consequência ou conclusão do que foi dito antes (oração coordenada conclusiva). Equivalentes: logo, por isso, assim."
+    },
+    {
+      "id": "LP-0041",
+      "ano": 8,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Crase",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual alternativa completa corretamente a frase?\n“Amanhã vou ___ escola mais cedo.”",
+      "alternativas": [
+        "a",
+        "á",
+        "há",
+        "à"
+      ],
+      "gabarito": "D",
+      "comentario": "Quem vai, vai a algum lugar (preposição a), e “escola” é palavra feminina que aceita o artigo a: a + a = à. Dica: troque por uma palavra masculina (“vou ao colégio”); se aparecer “ao”, há crase. “Á” não existe como palavra, e “há” é do verbo haver."
+    },
+    {
+      "id": "LP-0042",
+      "ano": 9,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Orações subordinadas",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "enunciado": "Em “Embora estivesse cansado, Pedro terminou o trabalho”, a primeira oração expressa ideia de:",
+      "alternativas": [
+        "causa.",
+        "concessão.",
+        "condição.",
+        "finalidade."
+      ],
+      "gabarito": "B",
+      "comentario": "“Embora” introduz uma oração subordinada adverbial concessiva: um fato que poderia impedir o outro, mas não impede. Equivalentes: ainda que, mesmo que, apesar de que. A alternativa {A} é o erro frequente; compare com “Como estava cansado, Pedro parou”."
+    },
+    {
+      "id": "LP-0043",
+      "ano": 9,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Regência verbal",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Segundo a norma-padrão, qual alternativa completa a frase?\n“Ontem assisti ___ filme que a professora indicou.”",
+      "alternativas": [
+        "ao",
+        "o",
+        "no",
+        "pelo"
+      ],
+      "gabarito": "A",
+      "comentario": "No sentido de “ver”, o verbo “assistir” pede a preposição a: assistir ao filme. Na fala do dia a dia é comum dizer “assisti o filme”; vale discutir a diferença entre uso coloquial e norma-padrão, sem tratar a fala como erro."
+    },
+    {
+      "id": "LP-0044",
+      "ano": 9,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Concordância verbal",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "enunciado": "Qual frase está de acordo com a norma-padrão?",
+      "alternativas": [
+        "Fazem dois anos que não o vejo.",
+        "Houveram muitos problemas na reunião.",
+        "Faz dois anos que não o vejo.",
+        "Haviam muitas pessoas na fila."
+      ],
+      "gabarito": "C",
+      "comentario": "Os verbos “fazer” (indicando tempo decorrido) e “haver” (no sentido de existir) são impessoais e ficam no singular: faz dois anos, houve problemas, havia pessoas. É um dos desvios mais frequentes em textos formais."
+    },
+    {
+      "id": "LP-0045",
+      "ano": 9,
+      "eixo": "Análise linguística/semiótica",
+      "assunto": "Uso dos porquês",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual forma completa corretamente a frase?\n“Não sei ________ ele faltou à aula.”",
+      "alternativas": [
+        "porque",
+        "porquê",
+        "por quê",
+        "por que"
+      ],
+      "gabarito": "D",
+      "comentario": "“Por que” (separado e sem acento) é usado em perguntas, diretas ou indiretas, quando pode ser trocado por “por qual motivo”. “Porque” introduz explicação; “porquê” é substantivo (o porquê); “por quê” aparece no fim de frase."
+    },
+    {
+      "id": "LP-0046",
+      "ano": 3,
+      "eixo": "Produção de textos",
+      "assunto": "Bilhete",
+      "dificuldade": "fácil",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um bilhete para um colega da turma convidando-o para brincar no recreio. Não esqueça de dizer para quem é o bilhete, o que você quer e quem está escrevendo.",
+      "resposta_esperada": "Bilhete curto com destinatário, mensagem (convite com local e momento) e assinatura.",
+      "comentario": "Critérios: 1) destinatário (nome do colega); 2) mensagem clara, com o convite, o local e o momento (recreio); 3) despedida e assinatura. Avalie também a separação entre palavras e o uso de letra maiúscula no início. Use o texto “Bilhete para a vovó” como modelo."
+    },
+    {
+      "id": "LP-0047",
+      "ano": 6,
+      "eixo": "Produção de textos",
+      "assunto": "Cartaz de campanha",
+      "dificuldade": "média",
+      "tipo": "discursiva",
+      "enunciado": "A escola vai fazer uma campanha para economizar água. Crie o texto de um cartaz com: um título chamativo, uma frase de efeito (slogan), duas orientações usando verbos no imperativo e quem organiza a campanha.",
+      "resposta_esperada": "Cartaz com título, slogan, duas orientações no imperativo (ex.: “Feche a torneira ao escovar os dentes”) e identificação de quem organiza.",
+      "comentario": "Critérios: 1) título curto e atrativo; 2) slogan com efeito persuasivo (rima, jogo de palavras); 3) duas orientações no imperativo; 4) indicação dos responsáveis; 5) adequação ao público escolar. O texto “Troque uma história, leve outra!” serve de referência."
+    },
+    {
+      "id": "LP-0048",
+      "ano": 9,
+      "eixo": "Produção de textos",
+      "assunto": "Parágrafo argumentativo",
+      "dificuldade": "difícil",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um parágrafo argumentativo (de 6 a 10 linhas) respondendo à pergunta: “A escola deve ter mais aulas ao ar livre?”. Apresente sua opinião (tese), dois argumentos que a sustentem e uma frase de conclusão.",
+      "resposta_esperada": "Parágrafo com tese clara, dois argumentos desenvolvidos, conectivos adequados e conclusão.",
+      "comentario": "Critérios: 1) tese explícita na primeira frase; 2) dois argumentos diferentes, cada um com explicação ou exemplo; 3) uso de conectivos (além disso, por isso, portanto); 4) conclusão coerente com a tese; 5) adequação à norma-padrão. Qualquer posição é válida se for bem sustentada."
+    }
+  ]
+}

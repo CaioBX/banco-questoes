@@ -1,0 +1,1019 @@
+{
+  "disciplina": "Matemática",
+  "slug": "matematica",
+  "prefixo": "MAT",
+  "rotulo_eixo": "Unidade temática",
+  "eixos": [
+    "Números",
+    "Álgebra",
+    "Geometria",
+    "Grandezas e medidas",
+    "Probabilidade e estatística"
+  ],
+  "questoes": [
+    {
+      "id": "MAT-0001",
+      "ano": 3,
+      "eixo": "Números",
+      "assunto": "Valor posicional",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "No número 457, quanto vale o algarismo 5?",
+      "alternativas": [
+        "5",
+        "50",
+        "57",
+        "500"
+      ],
+      "gabarito": "B",
+      "comentario": "O 5 ocupa a ordem das dezenas: 5 dezenas valem 50. Quem marca {A} confunde o algarismo com o valor que ele tem na posição; quem marca {D} troca dezenas por centenas. Vale retomar com material dourado ou quadro de ordens."
+    },
+    {
+      "id": "MAT-0002",
+      "ano": 3,
+      "eixo": "Números",
+      "assunto": "Adição",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Ana tinha 238 figurinhas e ganhou mais 145 da prima. Com quantas figurinhas Ana ficou?",
+      "alternativas": [
+        "373",
+        "383",
+        "393",
+        "483"
+      ],
+      "gabarito": "B",
+      "comentario": "238 + 145 = 383. Nas unidades, 8 + 5 = 13: fica 3 e vai 1 dezena. A alternativa {A} (373) aparece quando o aluno esquece a reserva (o “vai um”); {D} indica erro na soma das centenas."
+    },
+    {
+      "id": "MAT-0003",
+      "ano": 3,
+      "eixo": "Números",
+      "assunto": "Subtração",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Uma escola tem 502 alunos. Desses, 267 são meninas. Quantos meninos estudam na escola?",
+      "alternativas": [
+        "235",
+        "245",
+        "365",
+        "769"
+      ],
+      "gabarito": "A",
+      "comentario": "502 − 267 = 235. O zero nas dezenas exige reagrupar a partir das centenas. A alternativa {C} (365) é o erro clássico de subtrair sempre o menor do maior em cada coluna (7 − 2, 6 − 0, 5 − 2). {D} mostra que o aluno somou em vez de subtrair."
+    },
+    {
+      "id": "MAT-0004",
+      "ano": 3,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Medidas de tempo",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "A aula de Educação Física começou às 7h30 e durou 50 minutos. A que horas ela terminou?",
+      "alternativas": [
+        "7h80",
+        "8h10",
+        "8h20",
+        "8h30"
+      ],
+      "gabarito": "C",
+      "comentario": "7h30 + 30 min = 8h00; faltam 20 min, então 8h20. A alternativa {A} (7h80) revela que o aluno somou os minutos como se a hora tivesse 100 minutos. Bom momento para usar um relógio de ponteiros."
+    },
+    {
+      "id": "MAT-0005",
+      "ano": 3,
+      "eixo": "Geometria",
+      "assunto": "Figuras geométricas espaciais",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual destes objetos tem a forma mais parecida com um cilindro?",
+      "alternativas": [
+        "Um dado",
+        "Uma bola de futebol",
+        "Uma caixa de sapato",
+        "Uma lata de milho"
+      ],
+      "gabarito": "D",
+      "comentario": "A lata tem duas bases circulares e uma superfície curva: é um cilindro. O dado lembra um cubo, a bola uma esfera e a caixa um bloco retangular (paralelepípedo). Leve objetos reais para a sala e peça que os alunos classifiquem."
+    },
+    {
+      "id": "MAT-0006",
+      "ano": 3,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Leitura de tabelas",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "A turma do 3º ano fez uma pesquisa sobre a fruta preferida. Cada aluno escolheu uma fruta. Quantos alunos participaram da pesquisa?",
+      "tabela": {
+        "cabecalho": [
+          "Fruta",
+          "Número de alunos"
+        ],
+        "linhas": [
+          [
+            "Banana",
+            "8"
+          ],
+          [
+            "Maçã",
+            "5"
+          ],
+          [
+            "Caju",
+            "11"
+          ],
+          [
+            "Manga",
+            "6"
+          ]
+        ]
+      },
+      "alternativas": [
+        "11",
+        "28",
+        "30",
+        "32"
+      ],
+      "gabarito": "C",
+      "comentario": "Somam-se todas as quantidades: 8 + 5 + 11 + 6 = 30. Quem marca {A} (11) responde qual é a maior quantidade, e não o total. Aproveite a tabela para perguntar também qual fruta foi a mais escolhida (caju)."
+    },
+    {
+      "id": "MAT-0007",
+      "ano": 3,
+      "eixo": "Números",
+      "assunto": "Multiplicação",
+      "dificuldade": "fácil",
+      "tipo": "discursiva",
+      "enunciado": "Em cada caixa cabem 6 ovos. Quantos ovos há em 4 caixas cheias? Mostre, com desenho ou cálculo, como você pensou.",
+      "resposta_esperada": "24 ovos.",
+      "comentario": "Aceite diferentes estratégias: desenho das caixas, adição de parcelas iguais (6 + 6 + 6 + 6 = 24) ou multiplicação (4 × 6 = 24). Valorize o registro do raciocínio; é uma boa ponte entre a adição repetida e a multiplicação."
+    },
+    {
+      "id": "MAT-0008",
+      "ano": 4,
+      "eixo": "Números",
+      "assunto": "Multiplicação",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Um ônibus escolar leva 42 passageiros sentados. Quantos passageiros 5 ônibus iguais levam, todos lotados?",
+      "alternativas": [
+        "47",
+        "200",
+        "210",
+        "220"
+      ],
+      "gabarito": "C",
+      "comentario": "5 × 42 = 210 (5 × 40 = 200 e 5 × 2 = 10). A alternativa {B} esquece as unidades; {A} soma 42 + 5 em vez de multiplicar, sinal de que o aluno não identificou a ideia de grupos iguais."
+    },
+    {
+      "id": "MAT-0009",
+      "ano": 4,
+      "eixo": "Números",
+      "assunto": "Divisão",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "A professora repartiu 96 lápis igualmente entre 8 grupos. Quantos lápis cada grupo recebeu?",
+      "alternativas": [
+        "11",
+        "12",
+        "13",
+        "88"
+      ],
+      "gabarito": "B",
+      "comentario": "96 ÷ 8 = 12, pois 8 × 12 = 96. A alternativa {D} (88) mostra que o aluno subtraiu. Peça que confiram a divisão pela multiplicação."
+    },
+    {
+      "id": "MAT-0010",
+      "ano": 4,
+      "eixo": "Números",
+      "assunto": "Frações",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Uma pizza foi cortada em 8 pedaços iguais, e João comeu 3 pedaços. Que fração da pizza João comeu?",
+      "alternativas": [
+        "3/8",
+        "3/5",
+        "5/8",
+        "8/3"
+      ],
+      "gabarito": "A",
+      "comentario": "O todo foi dividido em 8 partes iguais (denominador) e foram consumidas 3 (numerador): 3/8. A alternativa {C} (5/8) é a parte que sobrou; {B} compara partes comidas com partes que sobraram; {D} inverte numerador e denominador."
+    },
+    {
+      "id": "MAT-0011",
+      "ano": 4,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Sistema monetário",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Pedro comprou um caderno de R$ 12,50 e pagou com uma nota de R$ 20,00. Quanto ele recebeu de troco?",
+      "alternativas": [
+        "R$ 7,50",
+        "R$ 8,00",
+        "R$ 8,50",
+        "R$ 32,50"
+      ],
+      "gabarito": "A",
+      "comentario": "20,00 − 12,50 = 7,50. A alternativa {C} costuma aparecer quando o aluno subtrai os reais e os centavos separadamente sem reagrupar; {D} soma os valores. Contar o troco “completando” (12,50 → 13,00 → 20,00) ajuda muito."
+    },
+    {
+      "id": "MAT-0012",
+      "ano": 4,
+      "eixo": "Geometria",
+      "assunto": "Figuras geométricas planas",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Quantos lados e quantos vértices tem um hexágono?",
+      "alternativas": [
+        "5 lados e 5 vértices",
+        "6 lados e 8 vértices",
+        "8 lados e 8 vértices",
+        "6 lados e 6 vértices"
+      ],
+      "gabarito": "D",
+      "comentario": "Hexa significa seis: o hexágono tem 6 lados e 6 vértices. Em todo polígono, o número de lados é igual ao de vértices, o que elimina a alternativa {B}. {A} confunde com o pentágono e {C} com o octógono."
+    },
+    {
+      "id": "MAT-0013",
+      "ano": 4,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Medidas de comprimento",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Uma fita mede 2 metros. Quantos centímetros tem essa fita?",
+      "alternativas": [
+        "0,2 cm",
+        "20 cm",
+        "200 cm",
+        "2.000 cm"
+      ],
+      "gabarito": "C",
+      "comentario": "1 m = 100 cm, então 2 m = 200 cm. A alternativa {D} confunde com a relação entre metro e milímetro (1 m = 1.000 mm). Use uma fita métrica para os alunos verem os 100 cm de cada metro."
+    },
+    {
+      "id": "MAT-0014",
+      "ano": 4,
+      "eixo": "Álgebra",
+      "assunto": "Sequências numéricas",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Observe a sequência: 3, 7, 11, 15, ... Qual é o próximo número?",
+      "alternativas": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "gabarito": "C",
+      "comentario": "A regra é somar 4 a cada termo: 15 + 4 = 19. Peça que os alunos expliquem a regra com palavras; descrever padrões é o começo do pensamento algébrico."
+    },
+    {
+      "id": "MAT-0015",
+      "ano": 4,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Noções de probabilidade",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Em um saco há 5 bolas azuis e 1 bola vermelha, todas do mesmo tamanho. Tirando uma bola sem olhar, o que é mais provável?",
+      "alternativas": [
+        "Sair uma bola azul",
+        "Sair a bola vermelha",
+        "As duas cores têm a mesma chance",
+        "É impossível saber"
+      ],
+      "gabarito": "A",
+      "comentario": "Há mais bolas azuis (5) do que vermelhas (1), então é mais provável sair azul. A alternativa {C} é um equívoco comum: achar que, por haver duas cores, cada uma tem metade da chance. Faça o sorteio na sala e registre os resultados."
+    },
+    {
+      "id": "MAT-0016",
+      "ano": 5,
+      "eixo": "Números",
+      "assunto": "Números decimais",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual destes números é o maior?",
+      "alternativas": [
+        "0,09",
+        "0,705",
+        "0,75",
+        "0,8"
+      ],
+      "gabarito": "D",
+      "comentario": "Comparando os décimos: 0,8 tem 8 décimos; 0,75 e 0,705 têm 7; 0,09 tem 0. Logo, 0,8 é o maior. Quem marca {B} pensa que “mais algarismos” significa “maior”, como nos números naturais. Escrever 0,800, 0,750 e 0,705 ajuda a comparar."
+    },
+    {
+      "id": "MAT-0017",
+      "ano": 5,
+      "eixo": "Números",
+      "assunto": "Porcentagem",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Uma camiseta custa R$ 40,00 e está com 25% de desconto. De quanto é o desconto?",
+      "alternativas": [
+        "R$ 10,00",
+        "R$ 15,00",
+        "R$ 25,00",
+        "R$ 30,00"
+      ],
+      "gabarito": "A",
+      "comentario": "25% é a quarta parte: 40 ÷ 4 = 10. A alternativa {C} trata 25% como R$ 25,00; {D} é o preço com desconto, e não o desconto. Relacionar 50%, 25% e 10% a metade, quarta parte e décima parte facilita o cálculo mental."
+    },
+    {
+      "id": "MAT-0018",
+      "ano": 5,
+      "eixo": "Números",
+      "assunto": "Frações",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual fração é equivalente a 1/2?",
+      "alternativas": [
+        "1/4",
+        "4/8",
+        "3/5",
+        "2/3"
+      ],
+      "gabarito": "B",
+      "comentario": "Multiplicando numerador e denominador de 1/2 por 4, obtemos 4/8. Desenhar duas barras do mesmo tamanho, uma dividida em 2 e outra em 8 partes, mostra que 1/2 e 4/8 ocupam o mesmo espaço."
+    },
+    {
+      "id": "MAT-0019",
+      "ano": 5,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Área",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Um terreno retangular mede 12 m de comprimento e 8 m de largura. Qual é a área desse terreno?",
+      "alternativas": [
+        "20 m²",
+        "40 m²",
+        "96 m²",
+        "960 m²"
+      ],
+      "gabarito": "C",
+      "comentario": "Área do retângulo = comprimento × largura = 12 × 8 = 96 m². A alternativa {B} (40 m²) é o perímetro (12 + 8 + 12 + 8): confusão frequente entre área e perímetro. {A} soma só dois lados."
+    },
+    {
+      "id": "MAT-0020",
+      "ano": 5,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Perímetro",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Uma praça tem a forma de um quadrado com 15 m de lado. Quantos metros de cerca são necessários para contornar toda a praça?",
+      "alternativas": [
+        "30 m",
+        "45 m",
+        "60 m",
+        "225 m"
+      ],
+      "gabarito": "C",
+      "comentario": "Contornar é calcular o perímetro: 4 × 15 = 60 m. A alternativa {D} (225) é a área (15 × 15), indicando confusão entre as duas grandezas; {A} e {B} contam só alguns lados."
+    },
+    {
+      "id": "MAT-0021",
+      "ano": 5,
+      "eixo": "Geometria",
+      "assunto": "Planificações",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Uma planificação é formada por 6 quadrados iguais. Dobrando-a corretamente, que figura se forma?",
+      "alternativas": [
+        "Pirâmide de base quadrada",
+        "Cilindro",
+        "Prisma de base triangular",
+        "Cubo"
+      ],
+      "gabarito": "D",
+      "comentario": "O cubo tem 6 faces quadradas e iguais. A pirâmide de base quadrada tem 1 quadrado e 4 triângulos; o cilindro tem faces curvas; o prisma triangular tem 2 triângulos e 3 retângulos. Montar planificações em papel torna a atividade concreta."
+    },
+    {
+      "id": "MAT-0022",
+      "ano": 5,
+      "eixo": "Álgebra",
+      "assunto": "Igualdade e termo desconhecido",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual número deve ocupar o espaço para que a igualdade seja verdadeira?\n35 + ___ = 50 + 12",
+      "alternativas": [
+        "15",
+        "27",
+        "47",
+        "97"
+      ],
+      "gabarito": "B",
+      "comentario": "50 + 12 = 62, e 62 − 35 = 27. A alternativa {D} (97) aparece quando o aluno entende o sinal de igual como “dá o resultado” e soma tudo. Trabalhe a igualdade como equilíbrio, usando a imagem de uma balança."
+    },
+    {
+      "id": "MAT-0023",
+      "ano": 5,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Leitura de tabelas",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "A biblioteca da escola registrou quantos livros foram emprestados em cada mês. Quantos livros a mais foram emprestados em abril do que em março?",
+      "tabela": {
+        "cabecalho": [
+          "Mês",
+          "Livros emprestados"
+        ],
+        "linhas": [
+          [
+            "Janeiro",
+            "12"
+          ],
+          [
+            "Fevereiro",
+            "18"
+          ],
+          [
+            "Março",
+            "9"
+          ],
+          [
+            "Abril",
+            "21"
+          ]
+        ]
+      },
+      "alternativas": [
+        "9",
+        "12",
+        "21",
+        "30"
+      ],
+      "gabarito": "B",
+      "comentario": "21 − 9 = 12. A alternativa {D} soma os dois meses, e {C} apenas copia o valor de abril. A expressão “a mais do que” indica comparação por diferença."
+    },
+    {
+      "id": "MAT-0024",
+      "ano": 5,
+      "eixo": "Números",
+      "assunto": "Divisão",
+      "dificuldade": "difícil",
+      "tipo": "discursiva",
+      "enunciado": "Uma escola vai levar 130 alunos a um passeio em vans de 15 lugares. Quantas vans serão necessárias para que todos os alunos possam ir? Explique sua resposta.",
+      "resposta_esperada": "9 vans.",
+      "comentario": "130 ÷ 15 = 8, com resto 10. As 8 vans levam 120 alunos e sobram 10, que precisam de mais uma van: 9 no total. O ponto central é interpretar o resto no contexto. Respostas como “8” ou “8,6” mostram que o aluno fez a conta, mas não voltou ao problema."
+    },
+    {
+      "id": "MAT-0025",
+      "ano": 6,
+      "eixo": "Números",
+      "assunto": "Múltiplos e MMC",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Dois ônibus saem juntos do terminal às 6h. Um passa a cada 12 minutos e o outro a cada 18 minutos. A que horas eles voltarão a sair juntos pela primeira vez?",
+      "alternativas": [
+        "6h30",
+        "6h36",
+        "6h54",
+        "7h12"
+      ],
+      "gabarito": "B",
+      "comentario": "Procura-se o menor múltiplo comum de 12 e 18: MMC(12, 18) = 36. Logo, 6h + 36 min = 6h36. A alternativa {A} soma 12 + 18; {C} (54 min) é múltiplo só de 18; {D} (72 min) é um múltiplo comum, mas não o menor."
+    },
+    {
+      "id": "MAT-0026",
+      "ano": 6,
+      "eixo": "Números",
+      "assunto": "Números primos",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual destes números é primo?",
+      "alternativas": [
+        "21",
+        "27",
+        "29",
+        "33"
+      ],
+      "gabarito": "C",
+      "comentario": "29 só é divisível por 1 e por ele mesmo. Os demais são divisíveis por 3: 21 = 3 × 7, 27 = 3 × 9 e 33 = 3 × 11. Muitos alunos acham que todo número ímpar é primo; esta questão desfaz essa ideia."
+    },
+    {
+      "id": "MAT-0027",
+      "ano": 6,
+      "eixo": "Números",
+      "assunto": "Operações com frações",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o resultado de 1/2 + 1/3?",
+      "alternativas": [
+        "1/6",
+        "2/6",
+        "2/5",
+        "5/6"
+      ],
+      "gabarito": "D",
+      "comentario": "Com denominador comum 6: 1/2 = 3/6 e 1/3 = 2/6; 3/6 + 2/6 = 5/6. A alternativa {C} soma numeradores e denominadores, erro muito frequente. Mostre com desenho que 2/5 é menor que 1/2, o que torna a resposta impossível."
+    },
+    {
+      "id": "MAT-0028",
+      "ano": 6,
+      "eixo": "Números",
+      "assunto": "Potenciação",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o valor de 2⁵?",
+      "alternativas": [
+        "7",
+        "10",
+        "25",
+        "32"
+      ],
+      "gabarito": "D",
+      "comentario": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32. A alternativa {B} multiplica base pelo expoente (2 × 5); {A} soma (2 + 5); {C} troca base e expoente (5²)."
+    },
+    {
+      "id": "MAT-0029",
+      "ano": 6,
+      "eixo": "Números",
+      "assunto": "Operações com decimais",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Um litro de leite custa R$ 4,85. Quanto custam 3 litros?",
+      "alternativas": [
+        "R$ 7,85",
+        "R$ 12,55",
+        "R$ 14,45",
+        "R$ 14,55"
+      ],
+      "gabarito": "D",
+      "comentario": "3 × 4,85 = 14,55. Uma estimativa (3 × 5 = 15) ajuda a descartar {B} e {A}. {C} indica erro na reserva dos centavos."
+    },
+    {
+      "id": "MAT-0030",
+      "ano": 6,
+      "eixo": "Geometria",
+      "assunto": "Ângulos",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Em 15 minutos, quantos graus gira o ponteiro dos minutos de um relógio?",
+      "alternativas": [
+        "15°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "gabarito": "C",
+      "comentario": "Em 60 minutos o ponteiro dá uma volta completa (360°). 15 minutos é 1/4 da volta: 360° ÷ 4 = 90°, um ângulo reto. A alternativa {A} associa diretamente minutos e graus."
+    },
+    {
+      "id": "MAT-0031",
+      "ano": 6,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Medidas de capacidade",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Quantos copos de 250 mL são necessários para encher completamente uma jarra de 2 litros?",
+      "alternativas": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "gabarito": "C",
+      "comentario": "2 L = 2.000 mL e 2.000 ÷ 250 = 8. A alternativa {A} considera que 1 L = 500 mL. Lembrar que 4 copos de 250 mL formam 1 litro facilita."
+    },
+    {
+      "id": "MAT-0032",
+      "ano": 6,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Média aritmética",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Nas quatro provas do bimestre, Júlia tirou 6, 8, 7 e 9. Qual foi a média das notas?",
+      "alternativas": [
+        "7",
+        "7,5",
+        "8",
+        "30"
+      ],
+      "gabarito": "B",
+      "comentario": "Média = (6 + 8 + 7 + 9) ÷ 4 = 30 ÷ 4 = 7,5. A alternativa {D} para na soma; {A} arredonda ou escolhe um valor do meio sem calcular."
+    },
+    {
+      "id": "MAT-0033",
+      "ano": 6,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Probabilidade",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Ao lançar um dado comum de seis faces, qual é a probabilidade de sair um número par?",
+      "alternativas": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "gabarito": "C",
+      "comentario": "Os pares são 2, 4 e 6: 3 casos favoráveis em 6 possíveis, ou seja, 3/6 = 1/2. A alternativa {A} considera só um resultado favorável."
+    },
+    {
+      "id": "MAT-0034",
+      "ano": 6,
+      "eixo": "Números",
+      "assunto": "Fração de quantidade",
+      "dificuldade": "média",
+      "tipo": "discursiva",
+      "enunciado": "Maria já leu 2/5 de um livro de 150 páginas. Quantas páginas ainda faltam para ela terminar o livro? Mostre seus cálculos.",
+      "resposta_esperada": "Faltam 90 páginas.",
+      "comentario": "1/5 de 150 = 30, então 2/5 = 60 páginas lidas; faltam 150 − 60 = 90 (ou 3/5 de 150 = 90). Observe se o aluno responde 60, que é o que já foi lido: nesse caso, o cálculo está certo, mas a pergunta não foi respondida."
+    },
+    {
+      "id": "MAT-0035",
+      "ano": 7,
+      "eixo": "Números",
+      "assunto": "Números inteiros",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "De madrugada, a temperatura em uma cidade era de −3 °C. Durante a manhã, subiu 8 °C. Qual passou a ser a temperatura?",
+      "alternativas": [
+        "−11 °C",
+        "−5 °C",
+        "5 °C",
+        "11 °C"
+      ],
+      "gabarito": "C",
+      "comentario": "−3 + 8 = 5. Na reta numérica, partindo de −3 e andando 8 casas para a direita, chega-se a 5. A alternativa {D} ignora o sinal; {A} subtrai em vez de somar."
+    },
+    {
+      "id": "MAT-0036",
+      "ano": 7,
+      "eixo": "Números",
+      "assunto": "Números inteiros",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o resultado de (−4) × (−6)?",
+      "alternativas": [
+        "−24",
+        "−10",
+        "10",
+        "24"
+      ],
+      "gabarito": "D",
+      "comentario": "Na multiplicação, sinais iguais dão resultado positivo: (−4) × (−6) = 24. A alternativa {B} confunde com a adição de dois negativos."
+    },
+    {
+      "id": "MAT-0037",
+      "ano": 7,
+      "eixo": "Álgebra",
+      "assunto": "Equações do 1º grau",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o valor de x na equação 2x + 5 = 17?",
+      "alternativas": [
+        "6",
+        "11",
+        "12",
+        "22"
+      ],
+      "gabarito": "A",
+      "comentario": "2x = 17 − 5 = 12, logo x = 6. A alternativa {C} esquece de dividir por 2; {B} soma 5 em vez de subtrair (2x = 22) e depois divide. Incentive a verificação: 2 · 6 + 5 = 17."
+    },
+    {
+      "id": "MAT-0038",
+      "ano": 7,
+      "eixo": "Álgebra",
+      "assunto": "Razão e proporção",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Uma receita de bolo usa 3 xícaras de farinha para cada 2 ovos. Mantendo a proporção, quantas xícaras de farinha serão usadas com 8 ovos?",
+      "alternativas": [
+        "9",
+        "11",
+        "12",
+        "16"
+      ],
+      "gabarito": "C",
+      "comentario": "8 ovos é 4 vezes 2 ovos, então a farinha também quadruplica: 4 × 3 = 12 xícaras. A alternativa {A} vem do raciocínio aditivo (de 2 para 8 ovos são +6, então 3 + 6 = 9), erro típico de quem ainda não pensa proporcionalmente; {B} soma 8 + 3 e {D} dobra a quantidade de ovos."
+    },
+    {
+      "id": "MAT-0039",
+      "ano": 7,
+      "eixo": "Números",
+      "assunto": "Porcentagem",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Em uma turma de 40 alunos, 30% usam óculos. Quantos alunos usam óculos?",
+      "alternativas": [
+        "10",
+        "12",
+        "28",
+        "30"
+      ],
+      "gabarito": "B",
+      "comentario": "10% de 40 = 4, então 30% = 3 × 4 = 12. A alternativa {D} confunde a porcentagem com a quantidade; {C} é o número de alunos que não usam óculos."
+    },
+    {
+      "id": "MAT-0040",
+      "ano": 7,
+      "eixo": "Geometria",
+      "assunto": "Ângulos do triângulo",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Dois ângulos internos de um triângulo medem 50° e 70°. Quanto mede o terceiro ângulo?",
+      "alternativas": [
+        "60°",
+        "70°",
+        "120°",
+        "180°"
+      ],
+      "gabarito": "A",
+      "comentario": "A soma dos ângulos internos de qualquer triângulo é 180°: 180° − 50° − 70° = 60°. A alternativa {C} é apenas a soma dos dois ângulos dados. Recortar os cantos de um triângulo de papel e juntá-los forma um ângulo raso."
+    },
+    {
+      "id": "MAT-0041",
+      "ano": 7,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Comprimento da circunferência",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Uma roda tem raio de 5 cm. Usando π = 3,14, qual é o comprimento da circunferência dessa roda?",
+      "alternativas": [
+        "10 cm",
+        "15,7 cm",
+        "31,4 cm",
+        "78,5 cm"
+      ],
+      "gabarito": "C",
+      "comentario": "C = 2 · π · r = 2 · 3,14 · 5 = 31,4 cm. A alternativa {B} usa π · r (esquece o 2); {D} calcula a área (π · r²); {A} é o diâmetro."
+    },
+    {
+      "id": "MAT-0042",
+      "ano": 7,
+      "eixo": "Álgebra",
+      "assunto": "Grandezas inversamente proporcionais",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Quatro pedreiros constroem um muro em 6 dias. Trabalhando no mesmo ritmo, em quantos dias 8 pedreiros construiriam o mesmo muro?",
+      "alternativas": [
+        "2",
+        "3",
+        "6",
+        "12"
+      ],
+      "gabarito": "B",
+      "comentario": "Dobrando o número de pedreiros, o tempo cai pela metade: 6 ÷ 2 = 3 dias. A alternativa {D} trata as grandezas como diretamente proporcionais. Pergunte: “com mais gente, o trabalho demora mais ou menos?”."
+    },
+    {
+      "id": "MAT-0043",
+      "ano": 7,
+      "eixo": "Álgebra",
+      "assunto": "Expressões algébricas",
+      "dificuldade": "média",
+      "tipo": "discursiva",
+      "enunciado": "Um retângulo tem lados medindo x e x + 3. Escreva uma expressão que represente o perímetro desse retângulo e calcule o perímetro quando x = 4.",
+      "resposta_esperada": "Perímetro = 4x + 6; para x = 4, o perímetro é 22.",
+      "comentario": "P = x + (x + 3) + x + (x + 3) = 4x + 6. Com x = 4: 4 · 4 + 6 = 22 (lados 4 e 7: 4 + 7 + 4 + 7 = 22). Aceite a forma 2x + 2(x + 3). Se o aluno chegar a 2x + 3, ele somou apenas dois lados."
+    },
+    {
+      "id": "MAT-0044",
+      "ano": 8,
+      "eixo": "Álgebra",
+      "assunto": "Sistemas de equações",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "enunciado": "Em um estacionamento há carros e motos, num total de 20 veículos e 64 rodas. Quantas motos há no estacionamento?",
+      "alternativas": [
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "gabarito": "A",
+      "comentario": "c + m = 20 e 4c + 2m = 64. Substituindo m = 20 − c: 4c + 40 − 2c = 64, então c = 12 e m = 8. A alternativa {C} é o número de carros, o que mostra que o aluno resolveu o sistema, mas não respondeu à pergunta. Confira: 12 · 4 + 8 · 2 = 64."
+    },
+    {
+      "id": "MAT-0045",
+      "ano": 8,
+      "eixo": "Números",
+      "assunto": "Notação científica",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Como se escreve o número 0,00045 em notação científica?",
+      "alternativas": [
+        "4,5 × 10⁻⁵",
+        "4,5 × 10⁻⁴",
+        "4,5 × 10⁻³",
+        "4,5 × 10⁴"
+      ],
+      "gabarito": "B",
+      "comentario": "A vírgula anda 4 casas para a direita até 4,5; por isso o expoente é −4. Números menores que 1 têm expoente negativo, o que elimina {D}. {C} e {A} erram a contagem de casas."
+    },
+    {
+      "id": "MAT-0046",
+      "ano": 8,
+      "eixo": "Álgebra",
+      "assunto": "Produtos notáveis",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual expressão é igual a (x + 3)²?",
+      "alternativas": [
+        "x² + 6x + 9",
+        "x² + 9",
+        "x² + 3x + 9",
+        "2x + 6"
+      ],
+      "gabarito": "A",
+      "comentario": "(x + 3)² = (x + 3)(x + 3) = x² + 3x + 3x + 9 = x² + 6x + 9. A alternativa {B} é o erro mais comum: elevar cada termo ao quadrado. Teste com x = 1: (1 + 3)² = 16, mas 1 + 9 = 10."
+    },
+    {
+      "id": "MAT-0047",
+      "ano": 8,
+      "eixo": "Geometria",
+      "assunto": "Ângulos internos de polígonos",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Qual é a soma das medidas dos ângulos internos de um hexágono?",
+      "alternativas": [
+        "540°",
+        "720°",
+        "900°",
+        "1.080°"
+      ],
+      "gabarito": "B",
+      "comentario": "S = (n − 2) · 180° = (6 − 2) · 180° = 720°. O hexágono pode ser dividido em 4 triângulos a partir de um vértice. A alternativa {A} corresponde ao pentágono; {D} usa n · 180°."
+    },
+    {
+      "id": "MAT-0048",
+      "ano": 8,
+      "eixo": "Grandezas e medidas",
+      "assunto": "Volume e capacidade",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Uma caixa-d’água tem a forma de um bloco retangular com medidas internas de 2 m × 1,5 m × 1 m. Quantos litros de água cabem nela?",
+      "alternativas": [
+        "4,5 L",
+        "300 L",
+        "3.000 L",
+        "30.000 L"
+      ],
+      "gabarito": "C",
+      "comentario": "V = 2 · 1,5 · 1 = 3 m³. Como 1 m³ = 1.000 L, cabem 3.000 L. A alternativa {A} soma as medidas; {B} e {D} erram a conversão de m³ para litros."
+    },
+    {
+      "id": "MAT-0049",
+      "ano": 8,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Mediana",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "As idades de cinco primos são: 12, 15, 13, 14 e 18 anos. Qual é a mediana dessas idades?",
+      "alternativas": [
+        "13",
+        "14",
+        "14,4",
+        "18"
+      ],
+      "gabarito": "B",
+      "comentario": "Em ordem: 12, 13, 14, 15, 18. O valor central é 14. A alternativa {C} é a média (72 ÷ 5 = 14,4), e {A} pega o termo do meio sem ordenar os dados, erro frequente."
+    },
+    {
+      "id": "MAT-0050",
+      "ano": 8,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Princípio multiplicativo",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Lucas tem 3 camisetas e 4 bermudas. De quantas maneiras diferentes ele pode se vestir usando uma camiseta e uma bermuda?",
+      "alternativas": [
+        "7",
+        "12",
+        "24",
+        "34"
+      ],
+      "gabarito": "B",
+      "comentario": "Cada camiseta combina com 4 bermudas: 3 × 4 = 12. A alternativa {A} soma as quantidades. Uma árvore de possibilidades no quadro ajuda a visualizar."
+    },
+    {
+      "id": "MAT-0051",
+      "ano": 9,
+      "eixo": "Geometria",
+      "assunto": "Teorema de Pitágoras",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Uma escada de 5 m está apoiada em um muro. O pé da escada está a 3 m da base do muro. A que altura a escada toca o muro?",
+      "alternativas": [
+        "2 m",
+        "4 m",
+        "√34 m",
+        "8 m"
+      ],
+      "gabarito": "B",
+      "comentario": "A escada é a hipotenusa: 5² = 3² + h², então h² = 25 − 9 = 16 e h = 4 m. A alternativa {C} trata 5 e 3 como catetos (√(25 + 9)); {A} subtrai as medidas diretamente."
+    },
+    {
+      "id": "MAT-0052",
+      "ano": 9,
+      "eixo": "Álgebra",
+      "assunto": "Equações do 2º grau",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Quais são as raízes da equação x² − 5x + 6 = 0?",
+      "alternativas": [
+        "−2 e −3",
+        "1 e 6",
+        "−1 e 6",
+        "2 e 3"
+      ],
+      "gabarito": "D",
+      "comentario": "Procuram-se dois números com soma 5 e produto 6: 2 e 3. Pela fórmula: Δ = 25 − 24 = 1; x = (5 ± 1) ÷ 2, logo 3 e 2. A alternativa {A} erra os sinais. Confira substituindo: 4 − 10 + 6 = 0."
+    },
+    {
+      "id": "MAT-0053",
+      "ano": 9,
+      "eixo": "Álgebra",
+      "assunto": "Função afim",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Em uma cidade, a corrida de táxi custa R$ 5,00 de bandeirada mais R$ 2,50 por quilômetro rodado. Quanto custa uma corrida de 8 km?",
+      "alternativas": [
+        "R$ 15,50",
+        "R$ 20,00",
+        "R$ 25,00",
+        "R$ 60,00"
+      ],
+      "gabarito": "C",
+      "comentario": "f(x) = 5 + 2,5x; f(8) = 5 + 20 = 25. A alternativa {B} esquece a parte fixa; {D} multiplica a bandeirada também pelos quilômetros ((5 + 2,5) · 8)."
+    },
+    {
+      "id": "MAT-0054",
+      "ano": 9,
+      "eixo": "Números",
+      "assunto": "Radiciação",
+      "dificuldade": "fácil",
+      "tipo": "objetiva",
+      "enunciado": "Qual é o valor de √144 + √81?",
+      "alternativas": [
+        "15",
+        "21",
+        "25",
+        "225"
+      ],
+      "gabarito": "B",
+      "comentario": "√144 = 12 e √81 = 9, então 12 + 9 = 21. A alternativa {A} calcula √(144 + 81) = √225 = 15: a raiz da soma não é igual à soma das raízes."
+    },
+    {
+      "id": "MAT-0055",
+      "ano": 9,
+      "eixo": "Geometria",
+      "assunto": "Semelhança de triângulos",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "No mesmo horário, um poste projeta uma sombra de 6 m, e um bastão de 1 m de altura projeta uma sombra de 0,4 m. Qual é a altura do poste?",
+      "alternativas": [
+        "2,4 m",
+        "6,4 m",
+        "15 m",
+        "24 m"
+      ],
+      "gabarito": "C",
+      "comentario": "Os triângulos formados são semelhantes: altura/sombra é igual nos dois casos. 1/0,4 = h/6, logo h = 6 ÷ 0,4 = 15 m. A alternativa {A} multiplica 6 por 0,4, invertendo a razão."
+    },
+    {
+      "id": "MAT-0056",
+      "ano": 9,
+      "eixo": "Números",
+      "assunto": "Juros simples",
+      "dificuldade": "média",
+      "tipo": "objetiva",
+      "enunciado": "Uma pessoa aplicou R$ 1.000,00 a juros simples de 2% ao mês, durante 6 meses. Quanto ela recebeu de juros?",
+      "alternativas": [
+        "R$ 12,00",
+        "R$ 120,00",
+        "R$ 200,00",
+        "R$ 1.120,00"
+      ],
+      "gabarito": "B",
+      "comentario": "2% de 1.000 = 20 por mês; em 6 meses, 6 × 20 = 120. A alternativa {D} é o montante (capital + juros), e não os juros. Boa questão para conversar sobre educação financeira."
+    },
+    {
+      "id": "MAT-0057",
+      "ano": 9,
+      "eixo": "Probabilidade e estatística",
+      "assunto": "Probabilidade",
+      "dificuldade": "difícil",
+      "tipo": "objetiva",
+      "enunciado": "Duas moedas comuns são lançadas ao mesmo tempo. Qual é a probabilidade de saírem duas caras?",
+      "alternativas": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "3/4"
+      ],
+      "gabarito": "A",
+      "comentario": "Os resultados possíveis são CC, CK, KC e KK: 4 casos igualmente prováveis, e só 1 é favorável, ou seja, 1/4. A alternativa {B} vem de contar “duas caras, duas coroas, uma de cada” como três casos igualmente prováveis, um erro histórico e muito comum."
+    },
+    {
+      "id": "MAT-0058",
+      "ano": 9,
+      "eixo": "Números",
+      "assunto": "Porcentagens sucessivas",
+      "dificuldade": "difícil",
+      "tipo": "discursiva",
+      "enunciado": "Um celular custava R$ 1.200,00. O preço subiu 10% e, no mês seguinte, o novo preço teve um desconto de 10%. O celular voltou a custar R$ 1.200,00? Justifique com cálculos.",
+      "resposta_esperada": "Não. Ficou em R$ 1.188,00.",
+      "comentario": "Aumento: 1.200 × 1,10 = 1.320. Desconto: 1.320 × 0,90 = 1.188. O desconto de 10% incide sobre um valor maior (1.320), por isso retira R$ 132,00, mais do que os R$ 120,00 acrescentados. Muitos alunos acham que +10% e −10% se anulam; discuta por quê."
+    }
+  ]
+}
