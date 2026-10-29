@@ -101,6 +101,18 @@ Ficam em `"textos"` e podem ser usados por várias questões:
 Na questão, informe `"texto": "T09"`. Na impressão, o texto sai uma vez antes do bloco de questões que o usam.
 Para poemas, use `"genero": "Poema"` e deixe uma linha vazia (`\n\n`) entre estrofes.
 
+### Importar um lote de questões
+
+Para incluir várias questões de uma vez, salve-as em um arquivo (por exemplo, `lote.json`), sem o campo `id`, e rode:
+
+```
+python3 ferramentas/importar.py matematica lote.json
+python3 ferramentas/validar.py
+```
+
+O importador numera as questões, recusa repetidas e equilibra a posição das respostas certas entre A, B, C e D.
+Em Português, o lote pode trazer textos-base novos: `{"textos": {...}, "questoes": [...]}`.
+
 ### Conferir antes de publicar
 
 ```
